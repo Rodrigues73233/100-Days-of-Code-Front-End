@@ -1,5 +1,3 @@
-# 100-Days-of-Code-Front-End
-
 # Eu estou participando do desafio #100DaysOfCode
 
 ## Conteúdo
@@ -11,20 +9,16 @@
 
 ## Se você decidir participar:
 
-0.  Conheça [o Site Oficial](http://100daysofcode.com/) para o movimento do #100DaysOfCode. Conecte-se com outras pessoas na plataforma de sua escolha a partir dessa lista: www.100DaysOfCode.com/connect
-    Além disso, [aqui](https://www.100daysofcode.com/slack) está um convite para nosso canal de Slack.
+0.  Conheça [o Site Oficial](http://100daysofcode.com/) para o movimento do #100DaysOfCode. 
 1.  Leia [Participando do #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
-2.  Dê um fork neste repositório e dê commit o [Log](log.md), ou a alternativa, o rápido [R1 Log](r1-log.md) (R1 significa Round 1) diariamente. [Exemplo](https://github.com/Kallaway/100-days-kallaway-log).
+2.  Dê um fork neste repositório.
 3.  **Programe no mínimo uma hora diariamente pelos próximos 100 dias.**
-4.  **Encoraje, pelo menos, duas pessoas no desafio no Twitter diariamente. Espalhe a mensagem!**
-5.  Troque a data nas [Regras](regras.md) para o dia que você iniciou o desafio.
-6.  Apague os exemplos no log, ou comente-os, e comece a preencher com seu próprio conteúdo.
-7.  **Twite seu progresso diariamente usando a hashtag #100DaysOfCode**
-8.  Siga o bot no Twitter [100DaysOfCode](https://twitter.com/_100DaysOfCode) que dá RT com a hashtag #100DaysOfCode. É uma grande maneira de se manter motivado e participando da comunidade. Obrigado [@amanhimself](https://twitter.com/amanhimself) por criar esse bot!
-9.  Importante: (veja a recomendação número 4 acima) Encorajar outras pessoas que estão participando do desafio no Twitter - ou em qualquer outro lugar -  através de curtidas quando elas postarem seu progresso ou ajudando quando elas estiverem com dificuldade. Isso irá criar uma comunidade que ajuda e é eficiente, o que irá contribuir para uma taxa maior de sucesso para os envolvidos. Também é recomendado se comprometer com seu desafio, visto que você estará envolvido com algumas pessoas (ou várias) nesse caso.
-10. Se você encontrar um recurso que poderá ajudar outras pessoas, envie um Pull Request para adicioná-lo nesse repositório, ou me mande um tweet (veja as informações abaixo).
+4.  Troque a data nas [Regras](regras.md) para o dia que você iniciou o desafio.
+5.  Apague os exemplos no log, ou comente-os, e comece a preencher com seu próprio conteúdo.
+6.  **Twite seu progresso diariamente usando a hashtag #100DaysOfCode**
+7.  Siga o bot no Twitter [100DaysOfCode](https://twitter.com/_100DaysOfCode) que dá RT com a hashtag #100DaysOfCode. É uma grande maneira de se manter motivado e participando da comunidade. Obrigado [@amanhimself](https://twitter.com/amanhimself) por criar esse bot!
 
-# 100 days of code :octocat:
+# 100 Days of Code Front-End :octocat:
 
 <!--
 | [Jupyter Notebooks] | [Study Material] | [Calendar] | [Informes] | [Listas] | [Bibliografia] |
@@ -32,17 +26,17 @@
 - - -
 -->
 
-Esse é meu repositorio pra o desafio dos 100 Days of Code. Meus objetivos são
-- [ ] 
-- [ ]  
-- [ ] 
-- [ ] 
+Esse é meu repositório pra o desafio dos 100 Days of Code. Meus objetivos são
+- [ ] Treinar meu HTML, CSS, JavaScript (1-29)
+- [ ] Praticar muito JavaScript (30-56)
+- [ ] Estudar UX e Design (57-69)
+- [ ] Estudar algum FrameWork voltado para o Front-End (70-100)
 
-Top Repositories
-- [Machine Learning](https://github.com/Clalloures/Machine-Learning)
-- [Computer-Vision](https://github.com/Clalloures/Computer-Vision)
-- [Robotics-with-Python](https://github.com/Clalloures/Robotics-with-Python)
-- [Data Science]()
+Principais Repositórios
+- []
+- []
+- []
+- []
 
 
 <!--
@@ -63,7 +57,7 @@ You can see more about them in:
 Início Setembro 27 - 2022
 
 
-|Dia|O que estudei | Falar sobre |Tempo |
+|Dia|O que estudei / Projetos | Falar sobre |Tempo |
 |------|------|------|-------|
 | 01 | Componente do cartão de visualização do produto |  |
 | 02 | Componente de código QR |  |  |
@@ -94,67 +88,38 @@ Início Setembro 27 - 2022
 | 27 | Contator de Caracteres |  |  |
 | 28 | Jogo da velha |  |  |
 | 29 | Clone Spotify |  |  |
-| 01 | Como criar um trocador de cores |  |
-| 02 | Como criar um contador |  |  |
-| 03 | Como criar um carrossel de revisões |  |  |
-| 04 | Como criar uma navbar responsiva | |  |
-| 05 | Como criar uma sidebar | |  |
-| 06 | Como criar um modal | |  |
-| 07 | Como criar uma página de perguntas frequentes | |  |
-| 08 | Como criar uma página de menu de restaurante | |  |
-| 09 | Como criar um segundo plano de vídeo | |  |
-| 10 | Como criar uma barra de navegação com rolagem | |  |
-| 11 | Como criar guias que exibem conteúdos diferentes| |  |
-| 12 | Como criar um relógio de contagem regressiva| |  |
-| 13 | Como criar seu próprio Lorem ipsum | |  |
-| 14 | Como criar uma lista de compras | |  |
-| 15 | Como criar um slider de imagens  | |  |
-| 16 | Como criar um jogo de pedra, papel e tesoura | |  |
-| 17 | Como criar o jogo do Genius |  |  |
-| 18 | Como criar um jogo de plataforma |  |  |
-| 19 | Como criar o Doodle Jump |  |  |
-| 20 | Como criar o Flappy Bird |  |  |
-| 21 | Como criar um jogo de memória |  |  |
-| 22 | Como criar um jogo de Whack-a-mole |  |  |
-| 23 | Como criar um jogo de Ligue 4 |  |  |
-| 24 | Como criar o jogo da cobrinha |  |  |
-| 25 | Como criar o jogo do Space Invaders |  |  |
-| 26 | Como criar o jogo do Frogger |  |  |
-| 27 | Como criar o jogo de Tetris |  |  |
-| 28 |  |  |  |
-| 29 |  |  |  |
-| 30 |  |  |  |
-| 31 |  |  |  |
-| 32 |  |  |  |
-| 33 |  |  |  |
-| 34 |  |  |  |
-| 35 |  |  |  |
-| 36 |  |  |  |
-| 37 |  |  |  |
-| 38 |  |  |  |
-| 39 |  |  |  |
-| 40 |  |  |  |
-| 41 |  |  |  |
-| 42 |  |  |  |
-| 43 |  |  |  |
-| 44 |  |  |  |
-| 45 |  |  |  |
-| 46 |  |  |  |
-| 47 |  |  |  |
-| 48 |  |  |  |
-| 49 |  |  |  |
-| 50 |  |  |  |
-| 51 |  |  |  |
-| 52 |  |  |  |
-| 53 |  |  |  |
-| 54 |  |  |  |
-| 55 |  |  |  |
-| 56 |  |  |  |
-| 57 |  |  |  |
+| 30 | Como criar um trocador de cores |  |
+| 31 | Como criar um contador |  |  |
+| 32 | Como criar um carrossel de revisões |  |  |
+| 33 | Como criar uma navbar responsiva | |  |
+| 34 | Como criar uma sidebar | |  |
+| 35 | Como criar um modal | |  |
+| 36 | Como criar uma página de perguntas frequentes | |  |
+| 37 | Como criar uma página de menu de restaurante | |  |
+| 38 | Como criar um segundo plano de vídeo | |  |
+| 39 | Como criar uma barra de navegação com rolagem | |  |
+| 40 | Como criar guias que exibem conteúdos diferentes| |  |
+| 41 | Como criar um relógio de contagem regressiva| |  |
+| 42 | Como criar seu próprio Lorem ipsum | |  |
+| 43 | Como criar uma lista de compras | |  |
+| 44 | Como criar um slider de imagens  | |  |
+| 45 | Como criar um jogo de pedra, papel e tesoura | |  |
+| 46 | Como criar o jogo do Genius |  |  |
+| 47 | Como criar um jogo de plataforma |  |  |
+| 48 | Como criar o Doodle Jump |  |  |
+| 49 | Como criar o Flappy Bird |  |  |
+| 50 | Como criar um jogo de memória |  |  |
+| 51 | Como criar um jogo de Whack-a-mole |  |  |
+| 52 | Como criar um jogo de Ligue 4 |  |  |
+| 53 | Como criar o jogo da cobrinha |  |  |
+| 54 | Como criar o jogo do Space Invaders |  |  |
+| 55 | Como criar o jogo do Frogger |  |  |
+| 56 | Como criar o jogo de Tetris |  |  |
+| 57 | Design Systems |  |  |
 | 58 |  |  |  |
 | 59 |  |  |  |
 | 60 |  |  |  |
-| 61 |  |  |  |
+| 61 | Figma Fundamentos |  |  |
 | 62 |  |  |  |
 | 63 |  |  |  |
 | 64 |  |  |  |
@@ -163,8 +128,8 @@ Início Setembro 27 - 2022
 | 67 |  |  |  |
 | 68 |  |  |  |
 | 69 |  |  |  |
-| 70 |  |  |  |
-| 71 |  |  |  |
+| 70 | Entender os Diferentes FrameWorks |  |  |
+| 71 | Escolher FrameWork |  |  |
 | 72 |  |  |  |
 | 73 |  |  |  |
 | 74 |  |  |  |
@@ -199,15 +164,10 @@ Início Setembro 27 - 2022
 - FrontEnd Mentor (1 - 4, 6 - 7): https://www.frontendmentor.io/challenges
 - Acervo Lima (5): https://acervolima.com/os-10-principais-projetos-para-iniciantes-praticarem-habilidades-em-html-e-css/
 - Canal Rafaella Ballerini (8 - 9): https://www.youtube.com/watch?v=y4ltLH9iK8E&t=784s&ab_channel=RafaellaBallerini
-- 20 Ideias de Projetos Para Desenvolvedores (10 - 30): https://www.brasilcode.com.br/20-ideias-de-projetos-para-desenvolvedores/
-- Projetos em JavaScript puro (31 - 50): https://www.freecodecamp.org/portuguese/news/40-projetos-em-javascript-para-iniciantes-ideias-simples-para-comecar-a-programar-em-js/
+- 20 Ideias de Projetos Para Desenvolvedores (10 - 29): https://www.brasilcode.com.br/20-ideias-de-projetos-para-desenvolvedores/
+- Projetos em JavaScript puro (30 - 56): https://www.freecodecamp.org/portuguese/news/40-projetos-em-javascript-para-iniciantes-ideias-simples-para-comecar-a-programar-em-js/
 
-[Jupyter Notebooks]: https://drive.google.com/drive/folders/1ZIwHz7U8vKAgjvHwkL_R1hZlE_4dsmah?usp=sharing
-[Calendar]: https://docs.google.com/spreadsheets/d/1G46MEMqWo8aM0B_8Ckx0OTZpRgZufIcm_9aYsYFBJZ4/edit?usp=sharing
-[Informes]: #informes
-[Bibliografia]: #bibliografia
-[Study Material]: #material
-[Listas]: https://drive.google.com/drive/folders/1BQV0u2NCllvFaDIy7qWS9I5YhUTyH9td?usp=sharing
+
 
 ## Notas
 
