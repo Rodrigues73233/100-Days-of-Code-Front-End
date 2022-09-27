@@ -34,7 +34,7 @@ Esse é meu repositório pra o desafio dos 100 Days of Code. Meus objetivos são
 - [ ] Estudar UX e Design (57-69)
 - [ ] Estudar algum FrameWork voltado para o Front-End (70-100)
 
-Principais Repositórios
+Principais Repositórios dos 100 Days of Code
 - []
 - []
 - []
