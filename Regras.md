@@ -26,7 +26,7 @@
 
 ## Conteúdo
 
-* [Regras](regras.md)
-* [Log - clique aqui para ver meu progresso](log.md)
+* [Regras](Regras.md)
+* [Log - clique aqui para ver meu progresso](Log.md)
 * [LEIA-ME](LEIAME.md)
 * [Recursos](recursos.md)
