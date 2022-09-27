@@ -1,7 +1,7 @@
 # Eu estou participando do desafio #100DaysOfCode
 
 - Vou postar um video de todos os projetos realizados dentro desses 100 dias no Twitter: https://twitter.com/Rodr1guesDev
-- Fazer um comentário do que eu realizei no dia na parte de [Log](Log.md) desse repositório
+- Vou fazer um comentário do que eu realizei no dia na parte de [Log](Log.md) desse repositório
 - Se quiser participar do Desafio é só seguir as regras e montar a sua lista de projetos e conteudos que deseja ver e realizar dentro desses 100 dias ou seguir a lista que ja está aqui nesse repositório.
 
 ## Conteúdo
