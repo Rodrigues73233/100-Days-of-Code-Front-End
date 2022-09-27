@@ -1,11 +1,13 @@
 # Eu estou participando do desafio #100DaysOfCode
 
+- Vou postar um video de todos os projetos realizados dentro desses 100 dias no Twitter: https://twitter.com/Rodr1guesDev
+- Fazer um comentário do que eu realizei no dia na parte de [Log](Log.md) desse repositório
+- Se quiser participar do Desafio é só seguir as regras e montar a sua lista de projetos e conteudos que deseja ver e realizar dentro desses 100 dias ou seguir a lista que ja está aqui nesse repositório.
+
 ## Conteúdo
 
 * [Regras](Regras.md)
-* [Log - clique aqui para ver meu progresso](log.md)
-* [LEIA-ME](LEIAME.md)
-* [Recursos](recursos.md)
+* [Log - clique aqui para ver meu progresso](Log.md)
 
 ## Se você decidir participar:
 
@@ -13,7 +15,7 @@
 1.  Leia [Participando do #100DaysOfCode](https://medium.freecodecamp.com/join-the-100daysofcode-556ddb4579e4)
 2.  Dê um fork neste repositório.
 3.  **Programe no mínimo uma hora diariamente pelos próximos 100 dias.**
-4.  Troque a data nas [Regras](regras.md) para o dia que você iniciou o desafio.
+4.  Troque a data nas [Regras](Regras.md) para o dia que você iniciou o desafio.
 5.  Apague os exemplos no log, ou comente-os, e comece a preencher com seu próprio conteúdo.
 6.  **Twite seu progresso diariamente usando a hashtag #100DaysOfCode**
 7.  Siga o bot no Twitter [100DaysOfCode](https://twitter.com/_100DaysOfCode) que dá RT com a hashtag #100DaysOfCode. É uma grande maneira de se manter motivado e participando da comunidade. Obrigado [@amanhimself](https://twitter.com/amanhimself) por criar esse bot!
