@@ -14,11 +14,11 @@
 2. Se eu programar no trabalho, não irei considerar esse tempo como parte do desafio.
 3. Eu irei enviar meu código para o GitHub todo dia para que qualquer pessoa possa ver meu progresso.
 4. Eu irei atualizar o (Log)[log.md] com meu progresso diário e irei providenciar um link para que outros possam ver meu progresso.
-5. Eu irei trabalhar em projetos reais, com desafios verdadeiros. O tempo que usar vendo tutoriais, cursos online e outros recursos similares NÃO irão contar para o desafio. (Caso você esteja aprendendo a programar, leia [LEIA-ME](LeiaMe.md))
+5. Eu irei trabalhar em projetos reais, com desafios verdadeiros. O tempo que usar vendo tutoriais, cursos online e outros recursos similares NÃO irão contar para o desafio.
 
 ## Ideias para fazer esse desafio ser mais eficiente
 
-1. Para aumentar as chances de sucesso, é requerido que você adicione o link de cada dia de posts no [log](log.md). Pode ser um link do commit no GitHub ou um link para um artigo de blog.
+1. Para aumentar as chances de sucesso, é requerido que você adicione o link de cada dia de posts no [log](Log.md). Pode ser um link do commit no GitHub ou um link para um artigo de blog.
 2. Se você perder a paciência ou ficar travado, leia esse artigo: [Learning to Code: When It Gets Dark](https://www.freecodecamp.org/news/learning-to-code-when-it-gets-dark-e485edfb58fd)
 3. Se você não sabe o motivo da ênfase de trabalhar em projetos reais, em relação aos tutoriais ou cursos online, leia isso: [How to Get a Developer Job in Less Than a Year](https://www.freecodecamp.org/news/how-to-get-a-developer-job-in-less-than-a-year-c27bbfe71645)
 4. Se você não puder enviar seu código para o GitHub por alguma razão (por exemplo, se você estiver aprendendo a programar ou estiver resolvendo exercícios interativos), forneça um link para o tweet. É fundamental manter seu desafio publicamente - você será beneficiado de estar comprometido com o desafio e com o registro do seu progresso publicado.
@@ -28,5 +28,3 @@
 
 * [Regras](Regras.md)
 * [Log - clique aqui para ver meu progresso](Log.md)
-* [LEIA-ME](LEIAME.md)
-* [Recursos](recursos.md)
