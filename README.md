@@ -60,7 +60,7 @@ You can see more about them in:
 Início Setembro 27 - 2022
 
 
-|Dia|O que estudei / Projetos | Falar sobre |Tempo |
+|Dia|O que vou estudar / Projetos | Falar sobre |Tempo |
 |------|------|------|-------|
 | 01 | Componente do cartão de visualização do produto |  |
 | 02 | Componente de código QR |  |  |
