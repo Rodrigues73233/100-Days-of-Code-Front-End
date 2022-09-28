@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&family=Montserrat:wght@500;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%; /* 1rem é 10px agora*/
+
+  /* Colors */
+  
+
+  /* Fonts */
+  --primary-font: 'Montserrat', sans-serif;
+  --second-font: 'Fraunces', serif;
+
+}
+
+body {
+  background: hsl(30, 38%, 92%);
+}
+
+.card-container {
+  align-items: center;
+  justify-content: center;
+  height: 600px;
+  display: flex;
+}
+
+.card-left {
+  float: left;
+  width: 20%;
+  height: 40rem;
+  
+}
+
+.card-left img {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px 0 0 10px;
+} 
+
+.card-right {
+  width: 20%;
+  height: 40rem;
+  background-color: hsl(0, 0%, 100%);
+  float: right;
+  display: flex;
+  flex-direction: column;
+  padding: 30px;
+  border-radius: 0 10px 10px 0;
+}
+
+.card-right h4 {
+  color: hsl(228, 12%, 48%);
+  font-family: var(--primary-font);
+  font-weight: 700;
+  font-size: 10px;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  letter-spacing: 4px;
+}
+
+.card-right h2 {
+  font-family: var(--second-font);
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 30px;
+  margin-bottom: 20px;
+}
+
+
+.card-right p {
+  font-size: 13px;
+  color: hsl(228, 12%, 48%);
+  line-height: 20px;
+  font-family: var(--primary-font);
+  font-weight: 500;
+  margin-bottom: 20px;
+}
+
+.card-right-valores {
+  margin-bottom: 20px;
+}
+
+.card-right-valores span:nth-child(1) {
+  word-spacing: -5px;
+  font-family: var(--second-font);
+  color: hsl(158, 36%, 37%);
+  font-size: 26px;
+  margin-right: 20px;
+  margin-right: 15px;
+  
+}
+
+.card-right-valores span:nth-child(2) {
+  font-family: var(--primary-font);
+  color: hsl(228, 12%, 48%);
+  text-decoration: line-through;
+  font-size: 12px;
+  vertical-align: middle;
+  font-weight: 500;
+  word-spacing: -3px;
+  vertical-align: baseline;
+}
+
+.card-right button i {
+  margin-right: 10px;
+  font-size: 14px;
+}
+
+.card-right button {
+  height: 4rem;
+  background-color: hsl(158, 36%, 37%);
+  color: hsl(0, 0%, 100%);
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+  transition: 0.6s;
+  font-size: 12px;
+  font-family: var(--primary-font);
+  font-weight: 500;
+}
+
+.card-right button:hover {
+  background-color:  hsl(212, 21%, 14%);
+  cursor: pointer;
+}
