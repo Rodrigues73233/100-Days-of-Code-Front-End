@@ -9,6 +9,7 @@
 
 * [Regras](Regras.md)
 * [Log - clique aqui para ver meu progresso](Log.md)
+* [Days - clique aqui para ver os projetos realizados](Projetos 100 Days of Code)
 
 ## Se você decidir participar:
 
