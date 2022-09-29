@@ -12,4 +12,4 @@
 
 **Aprendizados:** Organizando a rotina e aquecendo para os proximos dias do Desafio.
 
-**Link do Twitter, para ver o projeto:** [Recriando Componente do cartão de visualização do produto](https://twitter.com/Rodr1guesDev/status/1575276287232458752)
+**Link do Twitter, para ver o projeto:** [Recriando Componente do cartão de visualização do produto](https://twitter.com/Rodr1guesDev/status/1575280315945336832)
