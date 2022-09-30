@@ -21,3 +21,12 @@
 **Aprendizados:** Me organizando para poder completar com êxito o desafio.
 
 **Link do Twitter, para ver o projeto:** [Recriando Componente de código QR](https://twitter.com/Rodr1guesDev/status/1575665605533138945)
+
+
+### Dia 3: 30 de setembro, 2022 
+
+**Progresso do dia:** Treinei meu HTML, CSS e relembrei como colocar uma imagem por cima da outra, pra elas se alternarem com o hover.
+
+**Aprendizados:** Me organizando para poder completar com êxito o desafio.
+
+**Link do Twitter, para ver o projeto:** [Recriando Componente do cartão de visualização NFT](https://twitter.com/Rodr1guesDev/status/1575928208158953473)
