@@ -64,7 +64,7 @@ Início Setembro 27 - 2022
 |------|------|------|-------|
 | 01 | Componente do cartão de visualização do produto | HTML - CSS | 1h
 | 02 | Componente de código QR | HTML - CSS | 1h |
-| 03 | Componente do cartão de visualização NFT |  |  |
+| 03 | Componente do cartão de visualização NFT | HTML - CSS | 2h |
 | 04 | Componente de classificação interativo | |  |
 | 05 | Site Parallax | |  |
 | 06 | Painel de controle de tempo | |  |
