@@ -63,7 +63,7 @@ Início Setembro 27 - 2022
 |Dia|O que vou estudar / Projetos | Tecnologias e Ferramentas |Tempo |
 |------|------|------|-------|
 | 01 | Componente do cartão de visualização do produto | HTML - CSS | 1h
-| 02 | Componente de código QR |  |  |
+| 02 | Componente de código QR | HTML - CSS | 1h |
 | 03 | Componente do cartão de visualização NFT |  |  |
 | 04 | Componente de classificação interativo | |  |
 | 05 | Site Parallax | |  |
