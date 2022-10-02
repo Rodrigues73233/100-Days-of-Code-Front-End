@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--main-font);
+}
+
+:root {
+  font-size: 62.5%; /* 1rem é 10px agora*/
+  
+  /* Fonts */
+  --main-font: 'Lato', sans-serif;
+}
+
+.container-first-image {
+  background-image: url(../images/HunterXHunterStart.gif);
+  min-height: 700px;
+  opacity: 0.7;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container-first-image h1 {
+  background-color: #111;
+  font-size: 36px;
+  color: white;
+  padding: 20px;
+  width: 40rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 900;
+  text-transform: uppercase;
+  border-radius: 40px;
+}
+
+.text-first-image {
+  background: #f4f4f4;
+  color: #666;
+  padding: 50px;
+}
+
+.text-first-image h4 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-weight: 700;
+}
+
+.text-first-image p {
+  font-size: 18px;
+  width: 90%;
+  margin: 0 auto;
+  line-height: 3rem;
+  text-align: justify;
+  font-weight: 400;
+}
+
+
+.container-second-image {
+  background-image: url(../images/VinlandSaga.jpg);
+  min-height: 500px;
+  opacity: 0.9;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container-second-image h2 {
+  color: #B00108;
+  font-size: 26px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 8px;
+}
+
+.text-second-image {
+  background: #282e34;
+  color: white;
+  padding: 50px;
+}
+
+.text-second-image h4 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-weight: 700;
+}
+
+.text-second-image p {
+  font-size: 18px;
+  width: 90%;
+  margin: 0 auto;
+  line-height: 3rem;
+  text-align: justify;
+  font-weight: 400;
+}
+
+
+.container-third-image {
+  background-image: url(../images/Haikyu.jpg);
+  min-height: 500px;
+  opacity: 0.9;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container-third-image h2 {
+  font-size: 26px;
+  color: #B00108;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 8px;
+}
+
+.text-third-image {
+  background: #282e34;
+  color: white;
+  padding: 50px;
+}
+
+.text-third-image h4 {
+  font-size: 24px;
+  margin-bottom: 20px;
+  text-align: center;
+  font-weight: 700;
+}
+
+.text-third-image p {
+  font-size: 18px;
+  width: 90%;
+  margin: 0 auto;
+  line-height: 3rem;
+  text-align: justify;
+  font-weight: 400;
+}
+
+.container-last-image {
+  background-image: url(../images/HunterXHunter.gif);
+  min-height: 700px;
+  opacity: 0.7;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container-last-image h2 {
+  background-color: #111;
+  font-size: 36px;
+  color: white;
+  padding: 20px;
+  width: 40rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 8px;
+  border-radius: 40px;
+}
