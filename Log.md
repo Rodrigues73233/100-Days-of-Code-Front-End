@@ -39,3 +39,12 @@
 **Aprendizados:** Melhora do CSS, HTML e aprendendo melhor o JS, que foi bem chatinho hoje.
 
 **Link do Twitter, para ver o projeto:** [Componente de classificação interativo](https://twitter.com/Rodr1guesDev/status/1576393297018249216)
+
+
+### Dia 5: 02 de outubro, 2022 
+
+**Progresso do dia:** Treinei meu HTML, CSS e aprendi a utilizar o Parallax Scrolling.
+
+**Aprendizados:** Melhora do CSS, HTML e o uso do Parallax Scrolling.
+
+**Link do Twitter, para ver o projeto:** [Site Parallax](https://twitter.com/Rodr1guesDev/status/1576708470065500162)
