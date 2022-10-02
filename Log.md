@@ -30,3 +30,12 @@
 **Aprendizados:** Me organizando para poder completar com êxito o desafio.
 
 **Link do Twitter, para ver o projeto:** [Recriando Componente do cartão de visualização NFT](https://twitter.com/Rodr1guesDev/status/1575928208158953473)
+
+
+### Dia 4: 01 de outubro, 2022 
+
+**Progresso do dia:** Treinei meu HTML, CSS e começei a introduzir alguns conceitos de DOM na aplicação com JS.
+
+**Aprendizados:** Melhora do CSS, HTML e aprendendo melhor o JS, que foi bem chatinho hoje.
+
+**Link do Twitter, para ver o projeto:** [Componente de classificação interativo](https://twitter.com/Rodr1guesDev/status/1576393297018249216)
