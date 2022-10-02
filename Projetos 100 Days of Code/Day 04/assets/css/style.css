@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@400;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%; /* 1rem é 10px agora*/
+
+  /* Font */
+  --main-font: 'Overpass', sans-serif;
+}
+
+body {
+  background: hsl(216, 12%, 8%);
+  font-family: var(--main-font);
+}
+
+.main-card-container {
+  display: flex;
+  flex-direction: column;
+  margin: 10rem auto;
+  border-radius: 20px;
+  background-color: hsl(213, 19%, 18%);
+  width: 35rem;
+  height: 34rem;
+  padding: 30px;
+}
+
+.main-card-container-image {
+  background-color: hsl(211, 19%, 24%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px;
+  width: 4rem;
+  height: 4rem;
+  border-radius: 50%;
+  margin-bottom: 22px;
+}
+
+.main-card-container-image img {
+  width: 1.5rem;
+}
+
+.main-card-container-text h3 {
+  color: hsl(0, 0%, 100%);
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.main-card-container-text p {
+  color: hsl(216, 12%, 54%);
+  font-size: 13px;
+  font-weight: 400;
+  margin-bottom: 20px;
+  text-align: left;
+  line-height: 20px;
+}
+
+.main-card-container-number-buttons {
+  display: flex;
+  color: hsl(216, 12%, 54%);
+  font-weight: 700;
+  margin-bottom: 25px; 
+}
+
+.main-card-container-number-buttons button {
+  padding: 10px;
+  border: none;
+  border-radius: 50%;
+  width: 4rem;
+  height: 4rem;
+  background-color: hsl(211, 19%, 24%);
+  color: hsl(216, 12%, 54%);
+  margin-right: 20px;
+  transition: 0.6s;
+}
+
+.main-card-container-number-buttons button:hover {
+  background-color: hsl(217, 12%, 63%);
+  color: hsl(0, 0%, 100%);
+  cursor: pointer;
+}
+
+.main-card-container-number-buttons button:focus {
+  background-color: hsl(25, 97%, 53%);
+  color: hsl(0, 0%, 100%);
+}
+
+.main-card-container-number-buttons button:nth-child(5) {
+  margin-right: 0px;
+}
+
+
+.main-card-container-submit-button button {
+  color: hsl(0, 0%, 100%);
+  background-color: hsl(25, 97%, 53%);
+  border: none;
+  border-radius: 20px;
+  width: 100%;
+  letter-spacing: 2px;
+  font-weight: 700;
+  text-transform: uppercase;
+  padding: 10px;
+  transition: 0.6s;
+}
+
+.main-card-container-submit-button button:hover {
+  background-color: hsl(0, 0%, 100%);
+  color: hsl(25, 97%, 53%);
+  cursor: pointer;
+}

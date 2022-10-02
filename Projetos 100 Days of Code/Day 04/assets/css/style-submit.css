@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@400;700&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%; /* 1rem é 10px agora*/
+
+  /* Font */
+  --main-font: 'Overpass', sans-serif;
+}
+
+body {
+  background: hsl(216, 12%, 8%);
+  font-family: var(--main-font);
+}
+
+.main-card-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 10rem auto;
+  border-radius: 20px;
+  background-color: hsl(213, 19%, 18%);
+  width: 35rem;
+  height: 34rem;
+  padding: 30px;
+}
+
+.main-card-container-image {
+  margin-bottom: 20px;
+}
+
+.main-card-container-image img {
+  width: 13rem;
+}
+
+.main-card-container-info {
+  background-color: hsl(211, 19%, 24%);
+  padding: 5px;
+  color: hsl(25, 97%, 53%);
+  border-radius: 20px;
+  width: 60%;
+  text-align: center;
+  margin-bottom: 30px;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.main-card-container-text {
+  text-align: center;
+}
+
+.main-card-container-text h3 {
+  font-size: 24px;
+  color: hsl(0, 0%, 100%);
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.main-card-container-text p {
+  font-size: 12px;
+  color: hsl(216, 12%, 54%);
+  line-height: 2rem;
+  font-weight: 700;
+}
