@@ -67,7 +67,7 @@ Início Setembro 27 - 2022
 | 03 | Componente do cartão de visualização NFT | HTML - CSS | 2h |
 | 04 | Componente de classificação interativo | HTML - CSS - JS | 3h |
 | 05 | Site Parallax | HTML - CSS | 3h |
-| 06 | Painel de controle de tempo | |  |
+| 06 | Painel de controle de tempo | HTML - CSS | 3h |
 | 07 | Página do produto de comércio eletrônico | |  |
 | 08 | Email-Marketing | |  |
 | 09 | Portfólio | |  |
