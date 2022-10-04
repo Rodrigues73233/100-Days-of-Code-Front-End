@@ -1,0 +1,267 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--main-font);
+}
+
+:root {
+  font-size: 62.5%; /* 1rem é 10px agora*/
+
+  /* Fonts */
+  --main-font: 'Rubik', sans-serif;
+}
+
+body {
+  background: hsl(226, 43%, 10%);
+}
+
+.container-painel {
+  display: flex;
+  height: 600px;
+  align-items: center;
+  justify-content: center;
+}
+
+.painel {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 40rem;
+}
+
+.painel-user {
+  background-color: hsl(235, 46%, 20%);
+  border-radius: 10px;
+  margin-right: 20px;
+  width: 18rem;
+  height: 100%;
+  
+  
+}
+
+.user {
+  background-color: hsl(246, 80%, 60%);
+  padding: 20px;
+  border-radius: 10px;
+  height: 70%;
+}
+
+.user img {
+  width: 5rem;
+  border: 2px solid white;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+.user h5 {
+  color: hsl(236, 100%, 87%);
+  font-weight: 400;
+  font-size: 10px;
+}
+
+.user h1 {
+  color: white;
+  font-weight: 300;
+  font-size: 28px;
+}
+
+.painel-user-options {
+  background-color: hsl(235, 46%, 20%);
+  padding: 20px 20px 0px 20px;
+  border-radius: 10px;
+}
+
+.painel-user-options h4 {
+  color: hsl(236, 100%, 87%);
+  margin-bottom: 15px;
+  font-size: 12px;
+  font-weight: 400;
+  transition: 0.6s;
+}
+
+.painel-user-options h4:hover {
+  color: white;
+  cursor: pointer;
+}
+
+.painel-user-options h4:nth-child(3) {
+  margin-bottom: 0;
+}
+
+
+.painel-tasks {
+  display: flex;
+  flex-wrap: wrap;
+  width: 60%;
+  height: 100%;
+}
+
+.painel-cards {
+  width: 20rem;
+  height: 15rem;
+  border-radius: 10px;
+  margin: 0px 20px 20px 0px;
+}
+
+.first-card {
+  background-color: hsl(15, 100%, 70%);
+  margin-bottom: 60px;
+}
+
+.first-painel-tasks-background {
+  background-color: hsl(15, 100%, 70%);
+  border-radius: 10px;
+  background-image: url(../images/icon-work.svg);
+  background-repeat: no-repeat;
+  background-size: 5rem;
+  margin-left: 14rem;
+}
+
+.first-painel-tasks-background img {
+  width: 5rem;
+  margin-left: 14rem;
+}
+
+.second-card {
+  background-color: hsl(195, 74%, 62%);
+}
+
+.second-painel-tasks-background {
+  background-color: hsl(195, 74%, 62%);
+  border-radius: 10px;
+  background-image: url(../images/icon-play.svg);
+  background-repeat: no-repeat;
+  background-size: 5rem;
+  margin-left: 14rem;
+}
+
+.second-painel-tasks-background img {
+  width: 5rem;
+  margin-left: 14rem;
+}
+
+.third-card {
+  background-color: hsl(348, 100%, 68%);
+}
+
+.third-painel-tasks-background {
+  background-color: hsl(348, 100%, 68%);
+  border-radius: 10px;
+  background-image: url(../images/icon-study.svg);
+  background-repeat: no-repeat;
+  background-size: 5rem;
+  margin-left: 14rem;
+}
+
+.third-painel-tasks-background img {
+  width: 5rem;
+  margin-left: 14rem;
+}
+
+.forth-card {
+  background-color: hsl(145, 58%, 55%);
+}
+
+.forth-painel-tasks-background {
+  background-color: hsl(145, 58%, 55%);
+  border-radius: 10px;
+  background-image: url(../images/icon-exercise.svg);
+  background-repeat: no-repeat;
+  background-size: 5rem;
+  margin-left: 14rem;
+}
+
+.forth-painel-tasks-background img {
+  width: 5rem;
+  margin-left: 14rem;
+}
+
+.fiveth-card {
+  background-color: hsl(264, 64%, 52%);
+}
+
+.fiveth-painel-tasks-background {
+  background-color: hsl(264, 64%, 52%);
+  border-radius: 10px;
+  background-image: url(../images/icon-social.svg);
+  background-repeat: no-repeat;
+  background-size: 5rem;
+  margin-left: 14rem;
+}
+
+.fiveth-painel-tasks-background img {
+  width: 5rem;
+  margin-left: 14rem;
+}
+
+.sixth-card {
+  background-color: hsl(43, 84%, 65%);
+}
+
+.sixth-painel-tasks-background {
+  background-color: hsl(43, 84%, 65%);
+  border-radius: 10px;
+  background-image: url(../images/icon-self-care.svg);
+  background-repeat: no-repeat;
+  background-size: 5rem;
+  margin-left: 14rem;
+}
+
+.sixth-painel-tasks-background img {
+  width: 5rem;
+  margin-left: 14rem;
+}
+
+.painel-tasks-text {
+  position: relative;
+  background-color: hsl(235, 46%, 20%);
+  height: 15rem;
+  border-radius: 10px;
+  padding: 20px;
+  transition: 0.6s;
+}
+
+.painel-tasks-text:hover {
+  background-color: hsl(235, 45%, 61%);
+  cursor: pointer;
+}
+
+.painel-tasks-text h2 {
+  color: white;
+  font-weight: 300;
+  font-size: 38px;
+  margin-bottom: 10px;
+}
+
+.painel-tasks-text h5 {
+  color: hsl(236, 100%, 87%);
+  font-size: 12px;
+  font-weight: 300;
+}
+
+.painel-tasks-text-title {
+  display: flex;
+}
+
+.painel-tasks-text-title h4 {
+  font-size: 14px;
+  font-weight: 400;
+  
+  color: white;
+  margin-bottom: 20px;
+}
+
+.painel-tasks-text-title img {
+  height: 0.4rem;
+  position: absolute;
+  right: 20px;
+  transition: 0.6s;
+}
+
+.painel-tasks-text-title img:hover {
+  filter: brightness(1.5);
+  cursor: pointer;
+}
