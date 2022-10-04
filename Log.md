@@ -48,3 +48,12 @@
 **Aprendizados:** Melhora do CSS, HTML e o uso do Parallax Scrolling.
 
 **Link do Twitter, para ver o projeto:** [Site Parallax](https://twitter.com/Rodr1guesDev/status/1576708470065500162)
+
+
+### Dia 6: 03 de outubro, 2022 
+
+**Progresso do dia:** Treinei meu HTML e CSS.
+
+**Aprendizados:** Melhora do CSS, HTML e observei que não posso deixar o desafio diario para as últimas horas do dia, por que imprevistos e problemas sempre vão acontecer, então é melhor estar preparado, hoje quase não entreguei o projeto, por que fiquei preso, em uma parte que eu ainda vou voltar e tentar resolver amanhã.
+
+**Link do Twitter, para ver o projeto:** [Painel de controle de tempo](https://twitter.com/Rodr1guesDev/status/1577119665566150656)
