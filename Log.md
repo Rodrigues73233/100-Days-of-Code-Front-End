@@ -57,3 +57,12 @@
 **Aprendizados:** Melhora do CSS, HTML e observei que não posso deixar o desafio diario para as últimas horas do dia, por que imprevistos e problemas sempre vão acontecer, então é melhor estar preparado, hoje quase não entreguei o projeto, por que fiquei preso, em uma parte que eu ainda vou voltar e tentar resolver amanhã.
 
 **Link do Twitter, para ver o projeto:** [Painel de controle de tempo](https://twitter.com/Rodr1guesDev/status/1577119665566150656)
+
+
+### Dia 7: 04 de outubro, 2022 
+
+**Progresso do dia:** Treinei meu HTML e CSS.
+
+**Aprendizados:** Fiz a parte de HTML e CSS hoje, amanhã irei fazer a parte de JavaScript que vai deixar bem interessante e interativo o site.
+
+**Link do Twitter, para ver o projeto:** [Página do produto de comércio eletrônico](https://twitter.com/Rodr1guesDev/status/1577491986994561026)
