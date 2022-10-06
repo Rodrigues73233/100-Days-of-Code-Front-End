@@ -66,3 +66,12 @@
 **Aprendizados:** Fiz a parte de HTML e CSS hoje, amanhã irei fazer a parte de JavaScript que vai deixar bem interessante e interativo o site.
 
 **Link do Twitter, para ver o projeto:** [Página do produto de comércio eletrônico](https://twitter.com/Rodr1guesDev/status/1577491986994561026)
+
+
+### Dia 8: 05 de outubro, 2022 
+
+**Progresso do dia:** Treinei meu HTML, CSS e JS.
+
+**Aprendizados:** Fiz a parte de JavaScript hoje, com um pouco de HTML e CSS, sinto que ainda preciso aprender muito mais, por que algumas coisas não consegui fazer com o JS.
+
+**Link do Twitter, para ver o projeto:** [Página do produto de comércio eletrônico](https://twitter.com/Rodr1guesDev/status/1577834792464384000)
