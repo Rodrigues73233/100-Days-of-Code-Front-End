@@ -69,7 +69,7 @@ Início Setembro 27 - 2022
 | 05 | Site Parallax | HTML - CSS | 3h |
 | 06 | Painel de controle de tempo | HTML - CSS | 3h |
 | 07 | Página do produto de comércio eletrônico | HTML - CSS | 3h |
-| 08 | Página do produto de comércio eletrônico parte do (JS) | |  |
+| 08 | Página do produto de comércio eletrônico parte do (JS) | JS | 3h |
 | 09 | Email-Marketing | |  |
 | 10 | Portfólio | |  |
 | 11 | Calculadora | |  |
