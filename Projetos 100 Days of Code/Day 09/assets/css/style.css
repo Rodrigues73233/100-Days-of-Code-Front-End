@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--main-font);
+}
+
+:root {
+  font-size: 62.5%; /* 1rem é 10px agora*/
+
+  /* Fonts */
+  --main-font: 'Red Hat Display', sans-serif;
+}
+
+body {
+  background-image: url(../images/pattern-background-desktop.svg);
+  background-repeat: no-repeat;
+  background-position-y: -10rem;
+  
+  background-color: hsl(225, 100%, 94%);
+}
+
+.container-card-pedido {
+  
+}
+
+.card-pedido {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 60px auto;
+  background-color: hsl(225, 100%, 98%);
+  width: 35rem;
+  height: 53rem;
+  border-radius: 15px 15px 15px 15px;
+}
+
+.card-pedido-image {
+
+}
+
+.card-pedido-image img {
+  width: 35rem;
+  border-radius: 15px 15px 0 0;
+}
+
+.card-pedido-text {
+  padding: 30px;
+}
+
+.card-pedido-text h1 {
+  text-align: center;
+  margin-bottom: 10px;
+  font-weight: 900;
+  color: hsl(223, 47%, 23%);
+  font-size: 22px;
+}
+
+.card-pedido-text p {
+  text-align: center;
+  color: hsl(224, 23%, 55%);
+  font-size: 14px;
+  text-align: center;
+  line-height: 20px;
+  width: 90%;
+  margin: 10px auto;
+}
+
+.card-pedido-text-plan {
+  display: flex;
+  background-color: hsla(225, 100%, 94%, 0.342);
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+  align-items: center;
+  width: 90%;
+  margin: 20px auto;
+}
+
+.card-pedido-text-plan img {
+  width: 4rem;
+  margin-right: 20px;
+}
+
+.card-pedido-text-plan h4 {
+  color: hsl(223, 47%, 23%);
+  font-size: 12px;
+  font-weight: 900;
+  margin-bottom: 5px;
+  width: 8rem;
+}
+
+.card-pedido-text-plan span {
+  font-size: 12px;
+  color: hsl(224, 23%, 55%);
+}
+
+.card-pedido-text-plan-value {
+  margin-right: 40px;
+}
+
+.card-pedido-text-plan a {
+  font-size: 12px;
+  font-weight: 700;
+  color: hsl(245, 75%, 52%);
+  transition: 0.6s;
+}
+
+.card-pedido-text-plan a:hover {
+  cursor: pointer;
+  text-decoration: none;
+  opacity: 0.8;
+}
+
+.card-pedido-text-buttons {
+  display: flex;
+  flex-direction: column;
+}
+
+.card-pedido-text-buttons button {
+  padding: 10px;
+  width: 90%;
+  margin: 0 auto;
+  border: none;
+  border-radius: 10px;
+  font-weight: 900;
+  font-size: 12px;
+}
+
+.card-pedido-text-buttons button:nth-child(1) {
+  background-color: hsl(245, 75%, 52%);
+  margin-bottom: 10px;
+  color: white;
+  transition: 0.6s;
+}
+
+.card-pedido-text-buttons button:nth-child(1):hover {
+  filter: brightness(1.4);
+  opacity: .8;
+  cursor: pointer;
+}
+
+.card-pedido-text-buttons button:nth-child(2) {
+  background-color: hsl(225, 100%, 98%);
+  color: hsl(224, 23%, 55%);
+  transition: 0.6s;
+}
+
+.card-pedido-text-buttons button:nth-child(2):hover {
+  cursor: pointer;  
+  color: hsl(223, 47%, 23%);
+}
