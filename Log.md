@@ -84,3 +84,12 @@
 **Aprendizados:** Pagina com HTML e CSS.
 
 **Link do Twitter, para ver o projeto:** [Componente de resumo do pedido](https://twitter.com/Rodr1guesDev/status/1578217008260423682)
+
+
+### Dia 10: 06 de outubro, 2022 
+
+**Progresso do dia:** Treinei meu HTML e CSS.
+
+**Aprendizados:** Pagina com HTML e CSS.
+
+**Link do Twitter, para ver o projeto:** [Componente do cartão de visualização de estatísticas](https://twitter.com/Rodr1guesDev/status/1578560293177028608)
