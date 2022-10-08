@@ -86,10 +86,19 @@
 **Link do Twitter, para ver o projeto:** [Componente de resumo do pedido](https://twitter.com/Rodr1guesDev/status/1578217008260423682)
 
 
-### Dia 10: 06 de outubro, 2022 
+### Dia 10: 07 de outubro, 2022 
 
 **Progresso do dia:** Treinei meu HTML e CSS.
 
 **Aprendizados:** Pagina com HTML e CSS.
 
 **Link do Twitter, para ver o projeto:** [Componente do cartão de visualização de estatísticas](https://twitter.com/Rodr1guesDev/status/1578560293177028608)
+
+
+### Dia 11: 08 de outubro, 2022 
+
+**Progresso do dia:** Treinei meu HTML e CSS.
+
+**Aprendizados:** Exemplo de Email-Marketing com HTML e CSS.
+
+**Link do Twitter, para ver o projeto:** [Email-Marketing](https://twitter.com/Rodr1guesDev/status/1578796487730810880)
