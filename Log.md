@@ -102,3 +102,12 @@
 **Aprendizados:** Exemplo de Email-Marketing com HTML e CSS.
 
 **Link do Twitter, para ver o projeto:** [Email-Marketing](https://twitter.com/Rodr1guesDev/status/1578796487730810880)
+
+
+### Dia 12: 09 de outubro, 2022 
+
+**Progresso do dia:** Começei o meu Portfólio, que eu estava enrolando a meses para começar, mas agora que comecei estou me devertindo na criação do mesmo.
+
+**Aprendizados:** Analisei alguns portfólios hoje e tem gente muito boa, me senti inspirado, para estudar cada vez mais.
+
+**Link do Twitter, para ver o projeto:** [Portfólio](https://twitter.com/Rodr1guesDev/status/1579300634087784449)
