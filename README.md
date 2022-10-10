@@ -73,7 +73,7 @@ Início Setembro 27 - 2022
 | 09 | Componente de resumo do pedido | HTML - CSS | 1h |
 | 10 | Componente do cartão de visualização de estatísticas | HTML - CSS | 1h |
 | 11 | Email-Marketing | HTML - CSS | 2h |
-| 12 | Portfólio | |  |
+| 12 | Portfólio | HTML - CSS | 1h |
 | 13 | Calculadora | |  |
 | 14 | Quiz| |  |
 | 15 | Relógio Analógico| |  |
