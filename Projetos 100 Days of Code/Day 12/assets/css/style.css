@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700;900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: var(--primary-font);
+}
+
+:root {
+  font-size: 62.5%; /* 1rem é 10px agora*/
+
+  /* Colors */
+  --background-color: #151515;
+
+  /* Fonts */
+  --primary-font: 'Roboto', sans-serif;
+}
+
+body {
+  background: var(--background-color);
+}
+
+/* Header */
+
+header {
+  background-color: #202020;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 40px;
+}
+
+header .logo {
+  color: white;
+  font-size: 18px;
+  font-weight: 900;
+  display: flex;
+  align-items: center;
+  transition: 0.6s;
+}
+
+header .logo:hover {
+  color: rgb(60, 60, 228);
+  cursor: pointer;
+}
+
+header nav {
+  display: flex;
+  font-size: 14px;
+}
+
+header nav a {
+  margin-right: 50px;
+  text-decoration: none;
+  color: white;
+  padding: 5px;
+  transition: 0.3s;
+}
+
+header nav a:hover {
+  border-bottom: 3px solid rgb(60, 60, 228);
+  cursor: pointer;
+}
+
+header .cabecalho-contatos {
+  display: flex;
+}
+
+header .cabecalho-contatos a {
+  margin-right: 30px;
+  text-decoration: none;
+  color: white;
+  font-size: 26px;
+  font-weight: 700;
+  transition: 0.6s;
+}
+
+header .cabecalho-contatos a:hover {
+  color: rgb(60, 60, 228);
+  cursor: pointer;
+}
+
+
+
+
+/* Footer */
+
+footer {
+  background-color: #202020;
+  padding: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  width: 100%;
+  bottom: 0;
+}
+
+footer h4 {
+  color: white;
+  font-size: 18px;
+}
