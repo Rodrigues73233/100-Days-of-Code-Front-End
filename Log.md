@@ -111,3 +111,12 @@
 **Aprendizados:** Analisei alguns portfólios hoje e tem gente muito boa, me senti inspirado, para estudar cada vez mais.
 
 **Link do Twitter, para ver o projeto:** [Portfólio](https://twitter.com/Rodr1guesDev/status/1579300634087784449)
+
+
+### Dia 13: 10 de outubro, 2022 
+
+**Progresso do dia:** Começei a fazer a parte de Conhecimentos do meu portfólio, que eu estava enrolando a meses para começar, mas agora que comecei estou me devertindo na criação do mesmo.
+
+**Aprendizados:** Adquiri mais conhecimentos CSS e HTML.
+
+**Link do Twitter, para ver o projeto:** [Portfólio](https://twitter.com/Rodr1guesDev/status/1579655274725789697)
