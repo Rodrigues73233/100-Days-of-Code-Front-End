@@ -129,3 +129,12 @@
 **Aprendizados:** Adquiri mais conhecimentos CSS e HTML.
 
 **Link do Twitter, para ver o projeto:** [Portfólio](https://twitter.com/Rodr1guesDev/status/1580016854625832960)
+
+
+### Dia 15: 12 de outubro, 2022 
+
+**Progresso do dia:** Começei a fazer a parte de Contatos do meu portfólio, que eu estava enrolando a meses para começar, mas agora que comecei estou me devertindo na criação do mesmo.
+
+**Aprendizados:** Adquiri mais conhecimentos CSS animações e HTML.
+
+**Link do Twitter, para ver o projeto:** [Portfólio](https://twitter.com/Rodr1guesDev/status/1580388683173093376)
