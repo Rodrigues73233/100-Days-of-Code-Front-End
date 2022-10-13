@@ -76,7 +76,7 @@ Início Setembro 27 - 2022
 | 12 | Portfólio | HTML - CSS | 1h |
 | 13 | Portfólio | HTML - CSS | 1h |
 | 14 | Portfólio | HTML - CSS  | 1h |
-| 15 | Portfólio |  |  |
+| 15 | Portfólio | HTML - CSS | 1h |
 | 16 | Portfólio |  |  |
 | 17 | Portfólio |  |  |
 | 18 | Portfólio |  |  |
