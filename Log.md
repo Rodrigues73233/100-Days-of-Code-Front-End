@@ -147,3 +147,12 @@
 **Aprendizados:** Adquiri mais conhecimentos CSS animações e HTML.
 
 **Link do Twitter, para ver o projeto:** [Portfólio](https://twitter.com/Rodr1guesDev/status/1580746413343854594)
+
+
+### Dia 17: 14 de outubro, 2022 
+
+**Progresso do dia:** Adicionei alguns detalhes na parte de Conhecimentos do meu portfólio, que eu estava enrolando a meses para começar, mas agora que comecei estou me devertindo na criação do mesmo.
+
+**Aprendizados:** Adquiri mais conhecimentos CSS nth:child e HTML.
+
+**Link do Twitter, para ver o projeto:** [Portfólio](https://twitter.com/Rodr1guesDev/status/1581089530701967361)
