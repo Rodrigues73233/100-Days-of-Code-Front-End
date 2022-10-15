@@ -156,3 +156,12 @@
 **Aprendizados:** Adquiri mais conhecimentos CSS nth:child e HTML.
 
 **Link do Twitter, para ver o projeto:** [Portfólio](https://twitter.com/Rodr1guesDev/status/1581089530701967361)
+
+
+### Dia 18: 15 de outubro, 2022 
+
+**Progresso do dia:** Adicionei alguns detalhes na parte de Conhecimentos, adicionei a parte de Soft Skills, troquei a cor da barra de rolagem, adicionei um efeito ao scrollar a pagina e coloquei um favicon, que eu estava enrolando a meses para começar, mas agora que comecei estou me devertindo na criação do mesmo.
+
+**Aprendizados:** Adquiri mais conhecimentos CSS, HTML, JS.
+
+**Link do Twitter, para ver o projeto:** [Portfólio](https://twitter.com/Rodr1guesDev/status/1581385153204453376)
