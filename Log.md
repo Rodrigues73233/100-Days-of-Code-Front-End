@@ -165,3 +165,12 @@
 **Aprendizados:** Adquiri mais conhecimentos CSS, HTML, JS.
 
 **Link do Twitter, para ver o projeto:** [Portfólio](https://twitter.com/Rodr1guesDev/status/1581385153204453376)
+
+
+### Dia 19: 16 de outubro, 2022 
+
+**Progresso do dia:** Adicionei a parte de Projetos e adicionei a rolagem smooth que eu estava enrolando a meses para começar, mas agora que comecei estou me devertindo na criação do mesmo.
+
+**Aprendizados:** Adquiri mais conhecimentos CSS, HTML, JS.
+
+**Link do Twitter, para ver o projeto:** [Portfólio](https://twitter.com/Rodr1guesDev/status/1581790561366745094)
