@@ -174,3 +174,12 @@
 **Aprendizados:** Adquiri mais conhecimentos CSS, HTML, JS.
 
 **Link do Twitter, para ver o projeto:** [Portfólio](https://twitter.com/Rodr1guesDev/status/1581790561366745094)
+
+
+### Dia 20: 17 de outubro, 2022 
+
+**Progresso do dia:** Adicionei o restante dos Projetos, ajustei os links e corrigi algumas variáveis.
+
+**Aprendizados:** Adquiri mais conhecimentos CSS e HTML.
+
+**Link do Twitter, para ver o projeto:** [Portfólio](https://twitter.com/Rodr1guesDev/status/1582090910166224896)
