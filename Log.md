@@ -183,3 +183,12 @@
 **Aprendizados:** Adquiri mais conhecimentos CSS e HTML.
 
 **Link do Twitter, para ver o projeto:** [Portfólio](https://twitter.com/Rodr1guesDev/status/1582090910166224896)
+
+
+### Dia 21: 18 de outubro, 2022 
+
+**Progresso do dia:** Fiz uma parte da responsividade do site.
+
+**Aprendizados:** Adquiri mais conhecimentos em responsividade.
+
+**Link do Twitter, para ver o projeto:** [Portfólio](https://twitter.com/Rodr1guesDev/status/1582559339096969216)
