@@ -85,7 +85,7 @@ Início Setembro 27 - 2022
 | 21 | Portfólio | HTML - CSS | 1h |
 | 22 | Portfólio | HTML - CSS | 1h |
 | 23 | Portfólio | HTML - CSS | 1h |
-| 24 | Portfólio | HTML - CSS | 1h |
+| 24 | Portfólio | HTML - CSS | 2h |
 | 25 | Calculadora |  |  |
 | 26 | Quiz| |  |
 | 27 | Relógio Analógico| |  |
