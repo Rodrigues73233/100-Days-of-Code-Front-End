@@ -210,3 +210,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em responsividade.
 
 **Link do Twitter, para ver o projeto:** [Portfólio](https://twitter.com/Rodr1guesDev/status/1583202613742686208)
+
+
+### Dia 24: 21 de outubro, 2022 
+
+**Progresso do dia:** Terminei a responsividade do site.
+
+**Aprendizados:** Adquiri mais conhecimentos em responsividade.
+
+**Link do Twitter, para ver o projeto:** [Portfólio](https://twitter.com/Rodr1guesDev/status/1583651254861193216)
