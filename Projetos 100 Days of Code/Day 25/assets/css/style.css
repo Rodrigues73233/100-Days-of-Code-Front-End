@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@500;700;900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%; /* 1rem é 10px agora*/
+
+  /* Fonts */
+
+  --main-font: 'Poppins', sans-serif;
+}
+
+body {
+  background: #5F37AF;
+  font-family: var(--main-font);
+}
+
+h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 4rem;
+  color: white;
+  margin-bottom: 50px;
+}
+
+.container-calculadora {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.calculadora {
+  background-color: #150C24;
+  padding: 20px;
+  width: 300px;
+  height: 450px;
+  border-radius: 20px;
+}
+
+.calculadora h3 {
+  font-size: 3rem;
+  color: white;
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.calculadora #resultado {
+  width: 100%;
+  background-color: white;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  padding: 20px;
+  font-size: 2.8rem;
+  margin-bottom: 10px;
+}
+
+.calculadora table {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.botao{
+  width: 60px;
+  height: 55px;
+  font-size: 25px;
+  cursor: pointer;
+  margin: 3px;
+  background-color: rgb(31, 31, 31);
+  border: none;
+  color: white;
+}
+
+.botao:hover{
+  background-color: black;
+}
+
+#botao-0 {
+  width: 100%;
+}
