@@ -30,10 +30,10 @@
 -->
 
 Esse é meu repositório pra o desafio dos 100 Days of Code. Meus objetivos são
-- [ ] Treinar meu HTML, CSS, JavaScript (1-44)
-- [ ] Praticar muito JavaScript (45-71)
-- [ ] Estudar UX e Design (72-84)
-- [ ] Estudar algum FrameWork voltado para o Front-End (85-100)
+- [ ] Treinar meu HTML, CSS, JavaScript (1-45)
+- [ ] Praticar muito JavaScript (46-72)
+- [ ] Estudar UX e Design (73-85)
+- [ ] Estudar algum FrameWork voltado para o Front-End (86-100)
 
 Principais Repositórios dos 100 Days of Code
 - []
@@ -86,59 +86,59 @@ Início Setembro 27 - 2022
 | 22 | Portfólio | HTML - CSS | 1h |
 | 23 | Portfólio | HTML - CSS | 1h |
 | 24 | Portfólio | HTML - CSS | 2h |
-| 25 | Calculadora |  |  |
-| 26 | Quiz| |  |
-| 27 | Relógio Analógico| |  |
-| 28 | Relógio Digital | |  |
-| 29 | Cronômetro | |  |
-| 30 | Lista de Tarefas  | |  |
-| 31 | Validação do Formulário | |  |
-| 32 | Landing-Page |  |  |
-| 33 | Site Responsivo |  |  |
-| 34 | Site de Pesquisa de Empregos |  |  |
-| 35 | Blog |  |  |
-| 36 | CRUD |  |  |
-| 37 | Cadastro |  |  |
-| 38 | Aplicativo de Clima |  |  |
-| 39 | Aplicativo de Chat |  |  |
-| 40 | Aplicativo de Receitas |  |  |
-| 41 | Carrinho de Compras |  |  |
-| 42 | Contator de Caracteres |  |  |
-| 43 | Jogo da velha |  |  |
-| 44 | Clone Spotify |  |  |
-| 45 | Como criar um trocador de cores |  |
-| 46 | Como criar um contador |  |  |
-| 47 | Como criar um carrossel de revisões |  |  |
-| 48 | Como criar uma navbar responsiva | |  |
-| 49 | Como criar uma sidebar | |  |
-| 50 | Como criar um modal | |  |
-| 51 | Como criar uma página de perguntas frequentes | |  |
-| 52 | Como criar uma página de menu de restaurante | |  |
-| 53 | Como criar um segundo plano de vídeo | |  |
-| 54 | Como criar uma barra de navegação com rolagem | |  |
-| 55 | Como criar guias que exibem conteúdos diferentes| |  |
-| 56 | Como criar um relógio de contagem regressiva| |  |
-| 57 | Como criar seu próprio Lorem ipsum | |  |
-| 58 | Como criar uma lista de compras | |  |
-| 59 | Como criar um slider de imagens  | |  |
-| 60 | Como criar um jogo de pedra, papel e tesoura | |  |
-| 61 | Como criar o jogo do Genius |  |  |
-| 62 | Como criar um jogo de plataforma |  |  |
-| 63 | Como criar o Doodle Jump |  |  |
-| 64 | Como criar o Flappy Bird |  |  |
-| 65 | Como criar um jogo de memória |  |  |
-| 66 | Como criar um jogo de Whack-a-mole |  |  |
-| 67 | Como criar um jogo de Ligue 4 |  |  |
-| 68 | Como criar o jogo da cobrinha |  |  |
-| 69 | Como criar o jogo do Space Invaders |  |  |
-| 70 | Como criar o jogo do Frogger |  |  |
-| 71 | Como criar o jogo de Tetris |  |  |
-| 72 | Design Systems |  |  |
-| 73 |  |  |  |
+| 25 | Calculadora | HTML - CSS | 1h |
+| 26 | Calculadora |  |  |
+| 27 | Quiz| |  |
+| 28 | Relógio Analógico| |  |
+| 29 | Relógio Digital | |  |
+| 30 | Cronômetro | |  |
+| 31 | Lista de Tarefas  | |  |
+| 32 | Validação do Formulário | |  |
+| 33 | Landing-Page |  |  |
+| 34 | Site Responsivo |  |  |
+| 35 | Site de Pesquisa de Empregos |  |  |
+| 36 | Blog |  |  |
+| 37 | CRUD |  |  |
+| 38 | Cadastro |  |  |
+| 39 | Aplicativo de Clima |  |  |
+| 40 | Aplicativo de Chat |  |  |
+| 41 | Aplicativo de Receitas |  |  |
+| 42 | Carrinho de Compras |  |  |
+| 43 | Contator de Caracteres |  |  |
+| 44 | Jogo da velha |  |  |
+| 45 | Clone Spotify |  |  |
+| 46 | Como criar um trocador de cores |  |
+| 47 | Como criar um contador |  |  |
+| 48 | Como criar um carrossel de revisões |  |  |
+| 49 | Como criar uma navbar responsiva | |  |
+| 50 | Como criar uma sidebar | |  |
+| 51 | Como criar um modal | |  |
+| 52 | Como criar uma página de perguntas frequentes | |  |
+| 53 | Como criar uma página de menu de restaurante | |  |
+| 54 | Como criar um segundo plano de vídeo | |  |
+| 55 | Como criar uma barra de navegação com rolagem | |  |
+| 56 | Como criar guias que exibem conteúdos diferentes| |  |
+| 57 | Como criar um relógio de contagem regressiva| |  |
+| 58 | Como criar seu próprio Lorem ipsum | |  |
+| 59 | Como criar uma lista de compras | |  |
+| 60 | Como criar um slider de imagens  | |  |
+| 61 | Como criar um jogo de pedra, papel e tesoura | |  |
+| 62 | Como criar o jogo do Genius |  |  |
+| 63 | Como criar um jogo de plataforma |  |  |
+| 64 | Como criar o Doodle Jump |  |  |
+| 65 | Como criar o Flappy Bird |  |  |
+| 66 | Como criar um jogo de memória |  |  |
+| 67 | Como criar um jogo de Whack-a-mole |  |  |
+| 68 | Como criar um jogo de Ligue 4 |  |  |
+| 69 | Como criar o jogo da cobrinha |  |  |
+| 70 | Como criar o jogo do Space Invaders |  |  |
+| 71 | Como criar o jogo do Frogger |  |  |
+| 72 | Como criar o jogo de Tetris |  |  |
+| 73 | Design Systems |  |  |
 | 74 |  |  |  |
 | 75 |  |  |  |
-| 76 | Figma Fundamentos |  |  |
-| 77 |  |  |  |
+| 76 |  |  |  |
+| 77 | Figma Fundamentos |  |  |
 | 78 |  |  |  |
 | 79 |  |  |  |
 | 80 |  |  |  |
@@ -146,9 +146,9 @@ Início Setembro 27 - 2022
 | 82 |  |  |  |
 | 83 |  |  |  |
 | 84 |  |  |  |
-| 85 | Entender os Diferentes FrameWorks |  |  |
-| 86 | Escolher FrameWork |  |  |
-| 87 |  |  |  |
+| 85 |  |  |  |
+| 86 | Entender os Diferentes FrameWorks |  |  |
+| 87 | Escolher FrameWork |  |  |
 | 88 |  |  |  |
 | 89 |  |  |  |
 | 90 |  |  |  |
@@ -167,8 +167,8 @@ Início Setembro 27 - 2022
 - FrontEnd Mentor (1 - 4, 6 - 10): https://www.frontendmentor.io/challenges
 - Acervo Lima (5): https://acervolima.com/os-10-principais-projetos-para-iniciantes-praticarem-habilidades-em-html-e-css/
 - Canal Rafaella Ballerini (11,12 - 24): https://www.youtube.com/watch?v=y4ltLH9iK8E&t=784s&ab_channel=RafaellaBallerini
-- 20 Ideias de Projetos Para Desenvolvedores (25 - 44): https://www.brasilcode.com.br/20-ideias-de-projetos-para-desenvolvedores/
-- Projetos em JavaScript puro (45 - 71): https://www.freecodecamp.org/portuguese/news/40-projetos-em-javascript-para-iniciantes-ideias-simples-para-comecar-a-programar-em-js/
+- 20 Ideias de Projetos Para Desenvolvedores (25 - 45): https://www.brasilcode.com.br/20-ideias-de-projetos-para-desenvolvedores/
+- Projetos em JavaScript puro (46 - 72): https://www.freecodecamp.org/portuguese/news/40-projetos-em-javascript-para-iniciantes-ideias-simples-para-comecar-a-programar-em-js/
 
 
 
