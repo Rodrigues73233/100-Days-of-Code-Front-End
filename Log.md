@@ -219,3 +219,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em responsividade.
 
 **Link do Twitter, para ver o projeto:** [Portfólio](https://twitter.com/Rodr1guesDev/status/1583651254861193216)
+
+
+### Dia 25: 22 de outubro, 2022 
+
+**Progresso do dia:** Fiz a parte visual de uma calculadora.
+
+**Aprendizados:** Adquiri mais conhecimentos em HTML e CSS.
+
+**Link do Twitter, para ver o projeto:** [Calculadora](https://twitter.com/Rodr1guesDev/status/1583997468383281153)
