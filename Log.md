@@ -228,3 +228,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em HTML e CSS.
 
 **Link do Twitter, para ver o projeto:** [Calculadora](https://twitter.com/Rodr1guesDev/status/1583997468383281153)
+
+
+### Dia 26: 23 de outubro, 2022 
+
+**Progresso do dia:** Fiz a parte de JavaScript da calculadora.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Calculadora](https://twitter.com/Rodr1guesDev/status/1584334379996041216)
