@@ -237,3 +237,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em JavaScript.
 
 **Link do Twitter, para ver o projeto:** [Calculadora](https://twitter.com/Rodr1guesDev/status/1584334379996041216)
+
+
+### Dia 27: 24 de outubro, 2022 
+
+**Progresso do dia:** Fiz a visual de um Quiz sobre mim.
+
+**Aprendizados:** Adquiri mais conhecimentos em HTML e CSS.
+
+**Link do Twitter, para ver o projeto:** [Quiz](https://twitter.com/Rodr1guesDev/status/1584728546614071299)
