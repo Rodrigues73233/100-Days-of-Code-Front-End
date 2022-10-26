@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Quiz</title>
+  <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body onload="NextQuestion(0)">
+  <main>
+    <!-- Modal -->
+    <div class="modal-container" id="score-modal">
+
+      <div class="modal-content-container">
+
+          <h1>Parabéns, Você Completou o Quiz.</h1>
+
+          <div class="grade-details">
+              <p>Pontos : 10</p>
+              <p>Respostas Erradas : <span id="wrong-answers"></span></p>
+              <p>Respostas Certas : <span id="right-answers"></span></p>
+              <p>Porcentagem : <span id="grade-percentage"></span>%</p>
+              <p ><span id="remarks"></span></p>
+          </div>
+
+          <div class="modal-button-container">
+              <button onclick="closeScoreModal()">Continue</button>
+          </div>
+
+      </div>
+  </div>
+
+    <h1>Descubra um pouco sobre mim !</h1>
+    <div class="quiz-container">
+      <div class="quiz">
+        <div class="quiz-top">
+          <h3>Pontos : <span id="player-score"></span> / 10</h3>
+          <h3 >Questão : <span id="question-number"></span> / 10</h3>
+        </div>
+        <div class="quiz-content">
+          <div id="display-question"></div>
+        </div>
+        <div class="game-options-container">
+          <span>
+            <input type="radio" id="option-one" name="option" class="radio" value="optionA" />
+            <label for="option-one" class="option" id="option-one-label"></label>
+          </span>
+
+
+          <span>
+            <input type="radio" id="option-two" name="option" class="radio" value="optionB" />
+            <label for="option-two" class="option" id="option-two-label"></label>
+          </span>
+
+
+          <span>
+            <input type="radio" id="option-three" name="option" class="radio" value="optionC" />
+            <label for="option-three" class="option" id="option-three-label"></label>
+          </span>
+
+
+          <span>
+            <input type="radio" id="option-four" name="option" class="radio" value="optionD" />
+            <label for="option-four" class="option" id="option-four-label"></label>
+          </span>
+        </div>
+        <div class="quiz-next">
+          <button onclick="handleNextQuestion()">Próxima Questão</button>
+        </div>
+      </div>
+    </div>
+  </main>
+</body>
+<script src="./assets/js/main.js"></script>
+</html>
