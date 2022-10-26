@@ -90,7 +90,7 @@ Início Setembro 27 - 2022
 | 26 | Calculadora | JavaScript | 1h |
 | 27 | Quiz| HTML - CSS | 1h |
 | 28 | Quiz| JavaScript | 2h |
-| 29 | Relógio Analógico| |  |
+| 29 | Relógio Analógico| HTML - CSS - JavaScript | 2h |
 | 30 | Relógio Digital | |  |
 | 31 | Cronômetro | |  |
 | 32 | Lista de Tarefas  | |  |
