@@ -241,8 +241,17 @@
 
 ### Dia 27: 24 de outubro, 2022 
 
-**Progresso do dia:** Fiz a visual de um Quiz sobre mim.
+**Progresso do dia:** Fiz a visual do Quiz sobre mim.
 
 **Aprendizados:** Adquiri mais conhecimentos em HTML e CSS.
 
 **Link do Twitter, para ver o projeto:** [Quiz](https://twitter.com/Rodr1guesDev/status/1584728546614071299)
+
+
+### Dia 28: 25 de outubro, 2022 
+
+**Progresso do dia:** Fiz a de JavaScript do Quiz sobre mim.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Quiz](https://twitter.com/Rodr1guesDev/status/1585101315700850688)
