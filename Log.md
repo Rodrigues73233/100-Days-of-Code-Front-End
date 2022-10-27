@@ -264,3 +264,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em JavaScript e percebi que eu ainda tenho que aprender muito o JavaScript.
 
 **Link do Twitter, para ver o projeto:** [Relógio Analógico](https://twitter.com/Rodr1guesDev/status/1585355785122754562)
+
+
+### Dia 30: 27 de outubro, 2022 
+
+**Progresso do dia:** Fiz um Relógio Digital utilizando HTML, CSS e JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript e percebi que eu ainda tenho que aprender muito o JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Relógio Digital](https://twitter.com/Rodr1guesDev/status/1585681309975846912)
