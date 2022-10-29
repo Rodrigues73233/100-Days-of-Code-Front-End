@@ -282,3 +282,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em JavaScript e percebi que eu ainda tenho que aprender muito o JavaScript.
 
 **Link do Twitter, para ver o projeto:** [Cronômetro](https://twitter.com/Rodr1guesDev/status/1586151160628527107)
+
+
+### Dia 32: 29 de outubro, 2022 
+
+**Progresso do dia:** Fiz uma To Do List utilizando HTML, CSS e JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript mas preciso aprender muito mais coisas em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [To Do List](https://twitter.com/Rodr1guesDev/status/1586455120275189760)
