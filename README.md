@@ -92,7 +92,7 @@ Início Setembro 27 - 2022
 | 28 | Quiz| JavaScript | 2h |
 | 29 | Relógio Analógico| HTML - CSS - JavaScript | 2h |
 | 30 | Relógio Digital | HTML - CSS - JavaScript | 2h |
-| 31 | Cronômetro | |  |
+| 31 | Cronômetro | HTML - CSS - JavaScript | 2h |
 | 32 | Lista de Tarefas  | |  |
 | 33 | Validação do Formulário | |  |
 | 34 | Landing-Page |  |  |
