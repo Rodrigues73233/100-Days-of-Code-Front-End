@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>To Do List</title>
+  <link rel="stylesheet" href="./assets/css/style.css">
+  <link rel = "stylesheet" href = "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+</head>
+<body>
+  <main>
+
+    <div class="wrapper">
+      <header>To Do List</header>
+      <div class="inputField">
+        <input type="text" placeholder="Adicione uma nova tarefa">
+        <button><i class="fas fa-plus"></i></button>
+      </div>
+      <ul class="todoList">
+        <!-- data are comes from local storage -->
+      </ul>
+      <div class="footer">
+        <span>Você tem <span class="pendingTasks"></span> tarefas pendentes</span>
+        <button>Limpar tudo</button>
+      </div>
+    </div>
+  </main>
+
+  <script src="./assets/js/main.js"></script>
+</body>
+</html>
