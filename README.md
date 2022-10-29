@@ -93,7 +93,7 @@ Início Setembro 27 - 2022
 | 29 | Relógio Analógico| HTML - CSS - JavaScript | 2h |
 | 30 | Relógio Digital | HTML - CSS - JavaScript | 2h |
 | 31 | Cronômetro | HTML - CSS - JavaScript | 2h |
-| 32 | Lista de Tarefas  | |  |
+| 32 | Lista de Tarefas  | HTML - CSS - JavaScript | 2h |
 | 33 | Validação do Formulário | |  |
 | 34 | Landing-Page |  |  |
 | 35 | Site Responsivo |  |  |
