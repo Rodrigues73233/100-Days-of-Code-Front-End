@@ -273,3 +273,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em JavaScript e percebi que eu ainda tenho que aprender muito o JavaScript.
 
 **Link do Twitter, para ver o projeto:** [Relógio Digital](https://twitter.com/Rodr1guesDev/status/1585681309975846912)
+
+
+### Dia 31: 28 de outubro, 2022 
+
+**Progresso do dia:** Fiz um Cronômetro utilizando HTML, CSS e JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript e percebi que eu ainda tenho que aprender muito o JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Cronômetro](https://twitter.com/Rodr1guesDev/status/1586151160628527107)
