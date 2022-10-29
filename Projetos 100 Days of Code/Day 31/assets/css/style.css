@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%; /* 1rem é 10px agora*/
+}
+
+body {
+  min-height: 100vh;
+  width: 100%;
+  background: linear-gradient(45deg, #251b37, #372948, #ffcaca, #ffecef);
+  background-size: 300% 300%;
+  animation: colors 15s ease infinite;
+}
+
+@keyframes colors {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* Main */
+
+.container__cronometro {
+  height: 600px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cronometro {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+  width: 500px;
+  background: #1b2430;
+  border-radius: 20px;
+}
+
+.view__cronometro {
+  color: #f6f6f6;
+  font-size: 6rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+.cronometro__buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.cronometro__buttons button {
+  margin-right: 2rem;
+  padding: 1rem;
+  border: none;
+  border-radius: 20px;
+  color: #51557e;
+  font-size: 2rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  
+}
+
+.cronometro__buttons button:last-child {
+  margin-right: 0;
+}
+
+.cronometro__buttons button:hover {
+  cursor: pointer;
+}
+
+.cronometro__buttons button:active {
+  transform: scale(0.98);
+  box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
+}
