@@ -94,7 +94,7 @@ Início Setembro 27 - 2022
 | 30 | Relógio Digital | HTML - CSS - JavaScript | 2h |
 | 31 | Cronômetro | HTML - CSS - JavaScript | 2h |
 | 32 | Lista de Tarefas  | HTML - CSS - JavaScript | 2h |
-| 33 | Validação do Formulário | |  |
+| 33 | Validação do Formulário | HTML - CSS - JavaScript | 2h |
 | 34 | Landing-Page |  |  |
 | 35 | Site Responsivo |  |  |
 | 36 | Site de Pesquisa de Empregos |  |  |
