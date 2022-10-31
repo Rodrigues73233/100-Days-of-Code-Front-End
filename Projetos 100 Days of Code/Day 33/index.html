@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Formulário</title>
+    <link rel="stylesheet" href="./assets/css/style.css" />
+  </head>
+  <body>
+    <main>
+      <h1 class="title">Desenvolvedor</h1>
+      <div class="container-formulario">
+        <form>
+          <div>
+            <p>Nome:</p>
+            <input placeholder="Digite seu Nome" type="text" name="" id="input-nome" />
+          </div>
+          <br />
+          <div>
+            <p>Gmail:</p>
+            <input placeholder="Digite seu Gmail" type="text" name="" id="input-gmail" />
+          </div>
+          <br />
+          <div>
+            <p>Telefone:</p>
+            <input placeholder="Digite seu Telefone" type="text" name="" id="input-telefone" />
+          </div>
+          <br />
+          <div class="competencia">
+            <p>Competência:</p>
+            <select name="" id="linguagem">
+              <option>JavaScript</option>
+              <option>C#</option>
+              <option>Java</option>
+              <option>PHP</option>
+            </select>
+          </div>
+          <br/>
+          <br/>
+          <div class="buttons-form">
+            <input onclick="confereCampos()" type="submit" value="Enviar" name="Submit" />
+            <input onclick="limpaCampos()" type="reset" value="Limpar" name="Reset" />
+          </div>
+        </form>
+      </div>
+    </main>
+    <script src="./assets/js/main.js"></script>
+  </body>
+</html>

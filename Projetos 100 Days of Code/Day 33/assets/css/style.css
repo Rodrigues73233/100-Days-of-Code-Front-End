@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 62.5%; /* 1rem é 10px agora*/
+
+  /* Fonts */
+  --main-font: 'Poppins', sans-serif;
+}
+
+body {
+  min-height: 100vh;
+  width: 100%;
+  background: linear-gradient(45deg, #251b37, #372948, #ffcaca, #ffecef);
+  background-size: 300% 300%;
+  animation: colors 15s ease infinite;
+  font-family: var(--main-font);
+}
+
+@keyframes colors {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%;
+  }
+
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* Main */
+
+.title {
+  color: rgb(0, 0, 0);
+  font-size: 5rem;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.container-formulario {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container-formulario form {
+  background: #5d69a5;
+  padding: 20px;
+  height: 350px;
+  width: 400px;
+  border-radius: 30px;
+}
+
+.container-formulario p {
+  font-size: 2rem;
+  color: white;
+  font-weight: 400;
+  width: 35%;
+}
+
+.container-formulario input {
+  width: 80%;
+  padding: 5px;
+  
+  border: none;
+}
+
+.container-formulario div {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.competencia p {
+  width: 65%;
+}
+
+.competencia select {
+  width: 80%;
+}
+
+
+.buttons-form {
+  display: flex;
+  width: 100%;
+  margin-top: 10px;
+}
+
+.buttons-form input {
+  padding: 10px;
+  font-size: 3rem;
+  font-weight: 600;
+  border: none;
+  margin-right: 30px;
+  transition: .6s;
+  border-radius: 10px;
+}
+
+.buttons-form input:nth-child(2) {
+  margin-right: 0;
+}
+
+.buttons-form input:hover {
+  background: #251b37;
+  color: white;
+  cursor: pointer;
+}
