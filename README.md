@@ -96,7 +96,7 @@ Início Setembro 27 - 2022
 | 32 | Lista de Tarefas  | HTML - CSS - JavaScript | 2h |
 | 33 | Validação do Formulário | HTML - CSS - JavaScript | 2h |
 | 34 | Validação do Formulário Melhorado | HTML - CSS - JavaScript | 2h |
-| 35 | Landing-Page |  |  |
+| 35 | Landing-Page | HTML - CSS | 1h |
 | 36 | Site Responsivo |  |  |
 | 37 | Site de Pesquisa de Empregos |  |  |
 | 38 | Blog |  |  |
