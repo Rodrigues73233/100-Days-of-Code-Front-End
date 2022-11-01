@@ -300,3 +300,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em JavaScript mas preciso aprender muito mais coisas em JavaScript.
 
 **Link do Twitter, para ver o projeto:** [Formulário](https://twitter.com/Rodr1guesDev/status/1586885565567438848)
+
+
+### Dia 34: 31 de outubro, 2022 
+
+**Progresso do dia:** Fiz um Formulário mais elaborado utilizando HTML, CSS e JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript mas preciso aprender muito mais coisas em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Formulário](https://twitter.com/Rodr1guesDev/status/1587257881925226497)
