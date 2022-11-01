@@ -309,3 +309,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em JavaScript mas preciso aprender muito mais coisas em JavaScript.
 
 **Link do Twitter, para ver o projeto:** [Formulário](https://twitter.com/Rodr1guesDev/status/1587257881925226497)
+
+
+### Dia 35: 01 de novembro, 2022 
+
+**Progresso do dia:** Fiz uma Landing Page mais elaborada utilizando HTML, CSS e JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em HTML, CSS e JavaScript mas preciso aprender muito mais coisas em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Landing Page](https://twitter.com/Rodr1guesDev/status/1587550692847198209)
