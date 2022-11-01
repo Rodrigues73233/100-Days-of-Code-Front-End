@@ -1,0 +1,131 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700;900&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+:root {
+  font-size: 62.5%; /* 1rem é 10px agora*/
+
+}
+
+body {
+  min-height: 100vh;
+  width: 100%;
+  padding: 10px;
+  background: linear-gradient(45deg, #6DC9F6, #78CBE8, #93E2E7, #A3EFE8);
+  background-size: 300% 300%;
+  animation: colors 15s ease infinite;
+}
+
+@keyframes colors {
+  0% {
+    background-position: 0% 50%;
+  }
+
+  50% {
+    background-position: 100% 50%
+  }
+
+  100% {
+    background-position: 0% 50%
+  }
+}
+
+/* Main */
+
+.container-formulario-dev {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 590px;
+}
+
+.background-formulario-dev {
+  background: #4285F4;
+  height: 500px;
+  width: 600px;
+  border-radius: 5px;
+  transition: .6s;
+}
+
+.formulario-dev {
+  padding: 50px;
+  justify-content: center;
+  background: #FFFFFF;
+  width: 550px;
+  height: 500px;
+  border-radius: 5px 0px 0px 5px;
+}
+
+.formulario-dev h1 {
+  color: #4285F4;
+  margin-bottom: 30px;
+  font-size: 3rem;
+}
+
+.formulario-dev__input {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.formulario-dev__input label {
+  color: #818181;
+  margin-right: 20px;
+  font-size: 1.4rem;
+}
+
+.formulario-dev__input input {
+  
+  background-color: #E5E5E5;
+  border: none;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.formulario-dev__input-remenber {
+  display: flex;
+  align-items: center;
+  font-size: 1.4rem;
+  color: #818181;
+}
+
+.formulario-dev__input-remenber input {
+  margin-right: 5px;
+  
+}
+
+.formulario-dev .esqueceu-senha {
+  margin-left: 180px;
+}
+
+.formulario-dev .esqueceu-senha a {
+  text-decoration: none;
+  color: #4285F4;
+  transition: .6s;
+}
+
+.formulario-dev .esqueceu-senha a:hover {
+  color: #2262ca;;
+}
+
+.formulario-dev .enviar {
+  background: #4285F4;
+  border: none;
+  padding: 10px;
+  width: 100%;
+  margin-top: 30px;
+  color: white;
+  font-size: 2rem;
+  font-weight: 700;
+  border-radius: 5px;
+  transition: .6s;
+}
+
+.formulario-dev .enviar:hover {
+  background: #2262ca;
+  cursor: pointer;
+}
