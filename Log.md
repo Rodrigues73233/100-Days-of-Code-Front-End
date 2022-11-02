@@ -318,3 +318,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em HTML, CSS e JavaScript mas preciso aprender muito mais coisas em JavaScript.
 
 **Link do Twitter, para ver o projeto:** [Landing Page](https://twitter.com/Rodr1guesDev/status/1587550692847198209)
+
+
+### Dia 36: 02 de novembro, 2022 
+
+**Progresso do dia:** Tornei a Landing Page responsiva utilizando HTML, CSS e JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em HTML, CSS e JavaScript mas preciso aprender muito mais coisas em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Landing Page](https://twitter.com/Rodr1guesDev/status/1587898405250105345)
