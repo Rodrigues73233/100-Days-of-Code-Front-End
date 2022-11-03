@@ -327,3 +327,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em HTML, CSS e JavaScript mas preciso aprender muito mais coisas em JavaScript.
 
 **Link do Twitter, para ver o projeto:** [Landing Page](https://twitter.com/Rodr1guesDev/status/1587898405250105345)
+
+
+### Dia 37: 03 de novembro, 2022 
+
+**Progresso do dia:** Fiz alguns efeitos de clique utilizando HTML, CSS e JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em HTML, CSS e JavaScript mas preciso aprender muito mais coisas em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Efeitos de clique](https://twitter.com/Rodr1guesDev/status/1588275788922511360)
