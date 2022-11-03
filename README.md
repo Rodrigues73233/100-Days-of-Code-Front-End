@@ -98,7 +98,7 @@ Início Setembro 27 - 2022
 | 34 | Validação do Formulário Melhorado | HTML - CSS - JavaScript | 2h |
 | 35 | Landing-Page | HTML - CSS - JavaScript | 1h |
 | 36 | Site Responsivo | HTML - CSS - JavaScript | 2h |
-| 37 | Site de Pesquisa de Empregos |  |  |
+| 37 | Efeitos de Clique Botão | HTML - CSS - JavaScript | 1h |
 | 38 | Blog |  |  |
 | 39 | CRUD |  |  |
 | 40 | Cadastro |  |  |
