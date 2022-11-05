@@ -336,3 +336,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em HTML, CSS e JavaScript mas preciso aprender muito mais coisas em JavaScript.
 
 **Link do Twitter, para ver o projeto:** [Efeitos de clique](https://twitter.com/Rodr1guesDev/status/1588275788922511360)
+
+
+### Dia 38: 04 de novembro, 2022 
+
+**Progresso do dia:** Fiz um Cadastro de Funcionários utilizando HTML, CSS e JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em HTML, CSS e JavaScript mas preciso aprender muito mais coisas em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Cadastro Funcionários](https://twitter.com/Rodr1guesDev/status/1588711750693945344)
