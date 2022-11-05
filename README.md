@@ -100,7 +100,7 @@ Início Setembro 27 - 2022
 | 36 | Site Responsivo | HTML - CSS - JavaScript | 2h |
 | 37 | Efeitos de Clique Botão | HTML - CSS - JavaScript | 1h |
 | 38 | Cadastro de Funcionários | HTML - CSS - JavaScript | 2h |
-| 39 | CRUD |  |  |
+| 39 | News HomePage | HTML - CSS | 1h |
 | 40 | Cadastro |  |  |
 | 41 | Aplicativo de Clima |  |  |
 | 42 | Aplicativo de Chat |  |  |
@@ -164,10 +164,10 @@ Início Setembro 27 - 2022
 | 100 |  |  |  |
 
 ## Material dos Projetos
-- FrontEnd Mentor (1 - 4, 6 - 10): https://www.frontendmentor.io/challenges
+- FrontEnd Mentor (1 - 4, 6 - 10, 39): https://www.frontendmentor.io/challenges
 - Acervo Lima (5): https://acervolima.com/os-10-principais-projetos-para-iniciantes-praticarem-habilidades-em-html-e-css/
 - Canal Rafaella Ballerini (11,12 - 24): https://www.youtube.com/watch?v=y4ltLH9iK8E&t=784s&ab_channel=RafaellaBallerini
-- 20 Ideias de Projetos Para Desenvolvedores (25 - 36, 39 - 47): https://www.brasilcode.com.br/20-ideias-de-projetos-para-desenvolvedores/
+- 20 Ideias de Projetos Para Desenvolvedores (25 - 36, 40 - 47): https://www.brasilcode.com.br/20-ideias-de-projetos-para-desenvolvedores/
 - Projetos em JavaScript puro (48 - 74): https://www.freecodecamp.org/portuguese/news/40-projetos-em-javascript-para-iniciantes-ideias-simples-para-comecar-a-programar-em-js/
 
 
