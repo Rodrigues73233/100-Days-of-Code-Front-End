@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cadastro Funcionários</title>
+  <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body>
+  <main>
+    <div class="container-formulario">
+      <div class="background-formulario">
+        <form class="formulario" name="meu_form">
+        
+          <h3>Cadastro Funcionários</h3>
+          
+          <div class="formulario__input">
+            <input class="nome" type="text" id="input-nome" placeholder="Gabriel Rodrigues" required="required" name="nome" />
+            <label for="nome">Nome</label>
+          </div>
+        
+          <div class="formulario__input">
+            <input class="funcao" id="input-funcao" placeholder="Desenvolvedor" name="funcao" />
+            <label for="fone">Função</label>
+          </div>
+        
+          <div class="formulario__input">
+            <input class="salario" id="input-salario" placeholder="1.500 R$" name="salario" />
+            <label for="email">Salário</label>
+          </div>
+
+          <button class="enviar">Cadastrar</button>
+        </form>
+      </div>
+      <div class="background-lista-funcionarios">
+        <div class="lista-funcionarios">
+          <h3>Funcionários</h3>
+          <div id="resultado"></div>
+        </div>
+      </div>
+    </div>
+  </main>
+  <script src="./assets/js/main.js"></script>
+</body>
+</html>
