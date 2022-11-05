@@ -345,3 +345,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em HTML, CSS e JavaScript mas preciso aprender muito mais coisas em JavaScript.
 
 **Link do Twitter, para ver o projeto:** [Cadastro Funcionários](https://twitter.com/Rodr1guesDev/status/1588711750693945344)
+
+
+### Dia 39: 05 de novembro, 2022 
+
+**Progresso do dia:** Fiz uma Home Page utilizando HTML e CSS.
+
+**Aprendizados:** Adquiri mais conhecimentos em HTML e CSS.
+
+**Link do Twitter, para ver o projeto:** [Home Page](https://twitter.com/Rodr1guesDev/status/1588994517457571841)
