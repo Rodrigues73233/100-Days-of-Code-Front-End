@@ -354,3 +354,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em HTML e CSS.
 
 **Link do Twitter, para ver o projeto:** [Home Page](https://twitter.com/Rodr1guesDev/status/1588994517457571841)
+
+
+### Dia 40: 06 de novembro, 2022 
+
+**Progresso do dia:** Fiz uma Testimonials grid section utilizando HTML e CSS.
+
+**Aprendizados:** Adquiri mais conhecimentos em Grid no CSS.
+
+**Link do Twitter, para ver o projeto:** [Testimonials grid section](https://twitter.com/Rodr1guesDev/status/1589323574003003394)
