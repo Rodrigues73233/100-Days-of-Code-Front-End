@@ -363,3 +363,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em Grid no CSS.
 
 **Link do Twitter, para ver o projeto:** [Testimonials grid section](https://twitter.com/Rodr1guesDev/status/1589323574003003394)
+
+
+### Dia 41: 07 de novembro, 2022 
+
+**Progresso do dia:** Fiz um botão que altera a cor de fundo aleatoriamente para combinar com o botão utilizando HTML, CSS e JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript e manipular o DOM.
+
+**Link do Twitter, para ver o projeto:** [Botão Multi-Cores](https://twitter.com/Rodr1guesDev/status/1589669494179344384)
