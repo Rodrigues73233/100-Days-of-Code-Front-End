@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Poppins', sans-serif;
+}
+
+:root {
+  font-size: 62.5%; /* 1rem é 10px agora*/
+
+}
+
+body {
+  min-height: 100vh;
+  width: 100%;
+  background: #F5F7F9;
+}
+
+/* Main */
+
+main {
+  padding: 20px 20px;
+}
+
+.titles {
+  text-align: center;
+}
+
+.titles h2 {
+  color: #75767D;
+  font-size: 2.8rem;
+  font-weight: 200;
+}
+
+.titles h1 {
+  color: hsl(234, 12%, 34%);
+  font-size: 2.8rem;
+  margin-bottom: 10px;
+}
+
+.titles p {
+  color: hsl(229, 6%, 66%);
+  font-size: 1.2rem;
+  width: 32%;
+  margin: 0 auto;
+}
+
+.container-cards {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+  margin-bottom: 450px;
+  gap: 25px;
+  position: relative;
+}
+
+.background-card {
+  width: 280px;
+  height: 205px;
+  border-radius: 10px;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+
+.background-card:nth-child(1) {
+  background: hsl(180, 62%, 55%);
+  position: absolute;
+  top: 120px;
+  left: 210px;
+}
+
+.background-card:nth-child(2) {
+  background: hsl(0, 78%, 62%);
+  position: absolute;
+  top: 0px;
+}
+
+.background-card:nth-child(3) {
+  background: hsl(34, 97%, 64%);
+  position: absolute;
+  top: 230px;
+  bottom: 50px;
+}
+
+.background-card:nth-child(4) {
+  background: hsl(212, 86%, 64%);
+  position: absolute;
+  top: 120px;
+  right: 210px;
+}
+
+.card {
+  background: white;
+  width: 280px;
+  height: 200px;
+  margin-top: 5px;
+  padding: 20px;
+  border-radius: 0 0 10px 10px;
+  position: relative;
+}
+
+.card__text {
+
+}
+
+.card__text h4 {
+  font-size: 2rem;
+  color: hsl(234, 12%, 34%);
+  margin-bottom: 5px;
+}
+
+.card__text p {
+  color: hsl(229, 6%, 66%);
+  width: 85%;
+}
+
+.card__icone {
+  position: absolute;
+  right: 10px;
+  bottom: 30px;
+}
+
+.card__icone img {
+  width: 80%;
+}
