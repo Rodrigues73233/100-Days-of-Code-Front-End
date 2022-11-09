@@ -104,7 +104,7 @@ Início Setembro 27 - 2022
 | 40 | Testimonials grid section | HTML - CSS | 1h |
 | 41 | Botão Multi-Cores | HTML - CSS - JavaScript | 1h |
 | 42 | Four card feature section | HTML - CSS | 1h |
-| 43 | Aplicativo de Receitas |  |  |
+| 43 | Single price grid component | HTML - CSS | 1h |
 | 44 | Carrinho de Compras |  |  |
 | 45 | Contator de Caracteres |  |  |
 | 46 | Jogo da velha |  |  |
