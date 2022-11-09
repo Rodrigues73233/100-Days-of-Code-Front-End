@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@400;700&display=swap');
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'Karla', sans-serif;
+}
+
+:root {
+  font-size: 62.5%; /* 1rem é 10px agora*/
+
+}
+
+body {
+  min-height: 100vh;
+  width: 100%;
+  background: #E3EEF4;
+}
+
+/* Main */
+
+.card-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 600px;
+}
+
+.card {
+  padding: 20px;
+  width: 500px;
+
+}
+
+.card-top {
+  border-radius: 5px 5px 0px 0px;
+  background: #FFFFFF;
+  padding: 30px;
+  height: 150px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.card-top h1 {
+  color: hsl(179, 62%, 43%);
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.card-top h3 {
+  color: hsl(71, 73%, 54%);
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.card-top p {
+  color: hsl(218, 22%, 67%);
+  font-size: 1.2rem;
+  line-height: 20px;
+}
+
+.card-bottom {
+  display: flex;
+  border-radius: 0px 0px 5px 5px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.card-bottom__left {
+  float: left;
+  background: #2BB3B1;
+  padding: 30px;
+  width: 50%;
+  border-radius: 0px 0px 0px 5px;
+}
+
+.card-bottom__left h3 {
+  color: #D6FFFE;
+  margin-bottom: 10px;
+  font-size: 1.3rem;
+}
+
+.card-bottom__left div {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.card-bottom__left div span {
+  color: #ECFFFF;
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-right: 10px;
+}
+
+.card-bottom__left div h5 {
+  color: #63CFD0;
+  display: flex;
+  align-items: center;
+  font-size: 1.2rem;
+}
+
+.card-bottom__left p {
+  color: #A4EEF4;
+  margin-bottom: 20px;
+  font-size: 1.1rem;
+}
+
+.card-bottom__left button {
+  background: #BFDF32;
+  color: white;
+  border: none;
+  padding: 20px;
+  border-radius: 5px;
+  width: 100%;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  transition: .6s;
+}
+
+.card-bottom__left button:hover {
+  background-color: #9dbb16e7;
+  cursor: pointer;
+}
+
+.card-bottom__right {
+  float: right;
+  background: #4ABEBD;
+  padding: 30px;
+  width: 50%;
+  border-radius: 0px 0px 5px 0px;
+}
+
+.card-bottom__right h3 {
+  color: #D6FFFE;
+  margin-bottom: 15px;
+  font-size: 1.4rem;
+}
+
+.card-bottom__right p {
+  color: #A4EEF4;
+  font-size: 1.1rem;
+  line-height: 15px;
+}
