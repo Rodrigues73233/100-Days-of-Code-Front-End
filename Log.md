@@ -372,3 +372,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em JavaScript e manipular o DOM.
 
 **Link do Twitter, para ver o projeto:** [Botão Multi-Cores](https://twitter.com/Rodr1guesDev/status/1589669494179344384)
+
+
+### Dia 42: 08 de novembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de HTML e CSS.
+
+**Aprendizados:** Adquiri mais conhecimentos em HTML e CSS.
+
+**Link do Twitter, para ver o projeto:** [Four card feature section](https://twitter.com/Rodr1guesDev/status/1590175938746388480)
