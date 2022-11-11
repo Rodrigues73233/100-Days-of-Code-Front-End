@@ -106,7 +106,7 @@ Início Setembro 27 - 2022
 | 42 | Four card feature section | HTML - CSS | 1h |
 | 43 | Single price grid component | HTML - CSS | 1h |
 | 44 | Social proof section | HTML - CSS | 1h |
-| 45 | Contator de Caracteres |  |  |
+| 45 | 3-column preview card component | HTML - CSS | 1h |
 | 46 | Jogo da velha |  |  |
 | 47 | Clone Spotify |  |  |
 | 48 | Como criar um trocador de cores |  |
@@ -164,10 +164,10 @@ Início Setembro 27 - 2022
 | 100 |  |  |  |
 
 ## Material dos Projetos
-- FrontEnd Mentor (1 - 4, 6 - 10, 39 - 40, 42 - 44): https://www.frontendmentor.io/challenges
+- FrontEnd Mentor (1 - 4, 6 - 10, 39 - 40, 42 - 45): https://www.frontendmentor.io/challenges
 - Acervo Lima (5): https://acervolima.com/os-10-principais-projetos-para-iniciantes-praticarem-habilidades-em-html-e-css/
 - Canal Rafaella Ballerini (11,12 - 24): https://www.youtube.com/watch?v=y4ltLH9iK8E&t=784s&ab_channel=RafaellaBallerini
-- 20 Ideias de Projetos Para Desenvolvedores (25 - 36, 45 - 47): https://www.brasilcode.com.br/20-ideias-de-projetos-para-desenvolvedores/
+- 20 Ideias de Projetos Para Desenvolvedores (25 - 36, 46 - 47): https://www.brasilcode.com.br/20-ideias-de-projetos-para-desenvolvedores/
 - Projetos em JavaScript puro (48 - 74): https://www.freecodecamp.org/portuguese/news/40-projetos-em-javascript-para-iniciantes-ideias-simples-para-comecar-a-programar-em-js/
 
 
