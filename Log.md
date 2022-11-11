@@ -399,3 +399,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em HTML e CSS.
 
 **Link do Twitter, para ver o projeto:** [Social proof section](https://twitter.com/Rodr1guesDev/status/1590893238776659968)
+
+
+### Dia 45: 11 de novembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de HTML e CSS.
+
+**Aprendizados:** Adquiri mais conhecimentos em HTML e CSS.
+
+**Link do Twitter, para ver o projeto:** [3-column preview card component](https://twitter.com/Rodr1guesDev/status/1591183098523553792)
