@@ -390,3 +390,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em HTML e CSS.
 
 **Link do Twitter, para ver o projeto:** [Single price grid component](https://twitter.com/Rodr1guesDev/status/1590438431972159488)
+
+
+### Dia 44: 10 de novembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de HTML e CSS.
+
+**Aprendizados:** Adquiri mais conhecimentos em HTML e CSS.
+
+**Link do Twitter, para ver o projeto:** [Social proof section](https://twitter.com/Rodr1guesDev/status/1590893238776659968)
