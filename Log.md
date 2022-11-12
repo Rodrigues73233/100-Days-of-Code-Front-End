@@ -408,3 +408,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em HTML e CSS.
 
 **Link do Twitter, para ver o projeto:** [3-column preview card component](https://twitter.com/Rodr1guesDev/status/1591183098523553792)
+
+
+### Dia 46: 12 de novembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de HTML e CSS.
+
+**Aprendizados:** Adquiri mais conhecimentos em HTML e CSS.
+
+**Link do Twitter, para ver o projeto:** [Profile card component](https://twitter.com/Rodr1guesDev/status/1591534273714348032)
