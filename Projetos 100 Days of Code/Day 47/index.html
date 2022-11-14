@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Projeto - Idade</title>
+  <link rel="stylesheet" href="./assets/css/style.css">
+  <script src="./assets/js/script.js" defer></script>
+</head>
+<body>
+  <main>
+    <h2>Digite o ano em que você nasceu e será mostrado uma foto de alguem que corresponde a essa idade</h2>
+
+    <div>
+      <label for="anoNascimento"></label>
+      <input type="text" name="anoNascimento" id="anoNascimento" placeholder="Ano em que você nasceu">
+    </div>
+
+    <div>
+      <label for="masculino">Masculino</label>
+      <input type="radio" name="sexo" id="masculino">
+      <label for="feminino">Feminino</label>
+      <input type="radio" name="sexo" id="feminino">
+    </div>
+
+    <div>
+      <button id="main-button" onclick="calcular()">Calcular</button>
+    </div>
+
+    <div id="resultado"></div>
+
+    <div>
+      <img id="main-image" src="./usuario-desconhecido.jpg" alt="">
+    </div>
+
+
+  </main>
+</body>
+</html>
