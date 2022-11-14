@@ -30,7 +30,7 @@
 -->
 
 Esse é meu repositório pra o desafio dos 100 Days of Code. Meus objetivos são
-- [ ] Treinar meu HTML, CSS, JavaScript (1-47)
+- [x] Treinar meu HTML, CSS, JavaScript (1-47)
 - [ ] Praticar muito JavaScript (48-74)
 - [ ] Estudar UX e Design (75-85)
 - [ ] Estudar algum FrameWork voltado para o Front-End (86-100)
