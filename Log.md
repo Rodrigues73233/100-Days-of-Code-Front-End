@@ -417,3 +417,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em HTML e CSS.
 
 **Link do Twitter, para ver o projeto:** [Profile card component](https://twitter.com/Rodr1guesDev/status/1591534273714348032)
+
+
+### Dia 47: 13 de novembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de HTML, CSS e JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Projeto troca de Imagens](https://twitter.com/Rodr1guesDev/status/1591987996005392384)
