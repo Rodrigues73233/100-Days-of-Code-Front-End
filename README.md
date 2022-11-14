@@ -108,7 +108,7 @@ Início Setembro 27 - 2022
 | 44 | Social proof section | HTML - CSS | 1h |
 | 45 | 3-column preview card component | HTML - CSS | 1h |
 | 46 | Profile card component | HTML - CSS | 1h |
-| 47 | Clone Spotify |  |  |
+| 47 | Projeto troca de Imagens | HTML - CSS - JavaScript | 2h |
 | 48 | Como criar um trocador de cores |  |
 | 49 | Como criar um contador |  |  |
 | 50 | Como criar um carrossel de revisões |  |  |
