@@ -426,3 +426,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em JavaScript.
 
 **Link do Twitter, para ver o projeto:** [Projeto troca de Imagens](https://twitter.com/Rodr1guesDev/status/1591987996005392384)
+
+
+### Dia 48: 14 de novembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Como criar um trocador de cores](https://twitter.com/Rodr1guesDev/status/1592317251050692610)
