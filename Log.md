@@ -435,3 +435,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em JavaScript.
 
 **Link do Twitter, para ver o projeto:** [Como criar um trocador de cores](https://twitter.com/Rodr1guesDev/status/1592317251050692610)
+
+
+### Dia 49: 15 de novembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Como criar um contador](https://twitter.com/Rodr1guesDev/status/1592636204629229569)
