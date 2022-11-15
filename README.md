@@ -109,7 +109,7 @@ Início Setembro 27 - 2022
 | 45 | 3-column preview card component | HTML - CSS | 1h |
 | 46 | Profile card component | HTML - CSS | 1h |
 | 47 | Projeto troca de Imagens | HTML - CSS - JavaScript | 2h |
-| 48 | Como criar um trocador de cores |  |
+| 48 | Como criar um trocador de cores | HTML - CSS - JavaScript | 2h |
 | 49 | Como criar um contador |  |  |
 | 50 | Como criar um carrossel de revisões |  |  |
 | 51 | Como criar uma navbar responsiva | |  |
