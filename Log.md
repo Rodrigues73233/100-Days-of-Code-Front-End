@@ -444,3 +444,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em JavaScript.
 
 **Link do Twitter, para ver o projeto:** [Como criar um contador](https://twitter.com/Rodr1guesDev/status/1592636204629229569)
+
+
+### Dia 50: 16 de novembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Como criar um carrossel de revisões](https://twitter.com/Rodr1guesDev/status/1592950159587299328)
