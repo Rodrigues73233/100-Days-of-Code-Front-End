@@ -111,7 +111,7 @@ Início Setembro 27 - 2022
 | 47 | Projeto troca de Imagens | HTML - CSS - JavaScript | 2h |
 | 48 | Como criar um trocador de cores | JavaScript | 2h |
 | 49 | Como criar um contador | JavaScript | 2h |
-| 50 | Como criar um carrossel de revisões |  |  |
+| 50 | Como criar um carrossel de revisões | JavaScript | 2h |
 | 51 | Como criar uma navbar responsiva | |  |
 | 52 | Como criar uma sidebar | |  |
 | 53 | Como criar um modal | |  |
