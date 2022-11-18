@@ -453,3 +453,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em JavaScript.
 
 **Link do Twitter, para ver o projeto:** [Como criar um carrossel de revisões](https://twitter.com/Rodr1guesDev/status/1592950159587299328)
+
+
+### Dia 51: 17 de novembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Como criar uma navbar responsiva](https://twitter.com/Rodr1guesDev/status/1593429308583944192)
