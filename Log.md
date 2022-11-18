@@ -462,3 +462,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em JavaScript.
 
 **Link do Twitter, para ver o projeto:** [Como criar uma navbar responsiva](https://twitter.com/Rodr1guesDev/status/1593429308583944192)
+
+
+### Dia 52: 18 de novembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Como criar uma sidebar](https://twitter.com/Rodr1guesDev/status/1593704350400004098)
