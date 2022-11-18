@@ -113,7 +113,7 @@ Início Setembro 27 - 2022
 | 49 | Como criar um contador | JavaScript | 2h |
 | 50 | Como criar um carrossel de revisões | JavaScript | 2h |
 | 51 | Como criar uma navbar responsiva | JavaScript | 1h |
-| 52 | Como criar uma sidebar | |  |
+| 52 | Como criar uma sidebar | JavaScript | 1h |
 | 53 | Como criar um modal | |  |
 | 54 | Como criar uma página de perguntas frequentes | |  |
 | 55 | Como criar uma página de menu de restaurante | |  |
