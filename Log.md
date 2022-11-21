@@ -481,3 +481,12 @@
 
 **Link do Twitter, para ver o projeto:** [Como criar um modal](https://twitter.com/Rodr1guesDev/status/1594043153698369536)
 
+
+### Dia 54: 20 de novembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Como criar uma página de perguntas frequentes](https://twitter.com/Rodr1guesDev/status/1594516440215949314)
+
