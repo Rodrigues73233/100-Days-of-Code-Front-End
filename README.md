@@ -116,7 +116,7 @@ Início Setembro 27 - 2022
 | 52 | Como criar uma sidebar | JavaScript | 1h |
 | 53 | Como criar um modal | JavaScript | 1h |
 | 54 | Como criar uma página de perguntas frequentes | JavaScript | 2h |
-| 55 | Como criar uma página de menu de restaurante | |  |
+| 55 | Como criar uma página de menu de restaurante | JavaScript | 3h |
 | 56 | Como criar um segundo plano de vídeo | |  |
 | 57 | Como criar uma barra de navegação com rolagem | |  |
 | 58 | Como criar guias que exibem conteúdos diferentes| |  |
