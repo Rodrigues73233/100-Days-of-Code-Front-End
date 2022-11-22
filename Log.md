@@ -499,3 +499,12 @@
 
 **Link do Twitter, para ver o projeto:** [Como criar uma página de menu de restaurante](https://twitter.com/Rodr1guesDev/status/1594873871500443653)
 
+
+### Dia 56: 22 de novembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Como criar um segundo plano de vídeo](https://twitter.com/Rodr1guesDev/status/1595112466006282241)
+
