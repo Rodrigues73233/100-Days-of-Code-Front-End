@@ -118,7 +118,7 @@ Início Setembro 27 - 2022
 | 54 | Como criar uma página de perguntas frequentes | JavaScript | 2h |
 | 55 | Como criar uma página de menu de restaurante | JavaScript | 3h |
 | 56 | Como criar um segundo plano de vídeo | JavaScript | 1h |
-| 57 | Como criar uma barra de navegação com rolagem | |  |
+| 57 | Como criar uma barra de navegação com rolagem | JavaScript | 3h |
 | 58 | Como criar guias que exibem conteúdos diferentes| |  |
 | 59 | Como criar um relógio de contagem regressiva| |  |
 | 60 | Como criar seu próprio Lorem ipsum | |  |
