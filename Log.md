@@ -526,3 +526,12 @@
 
 **Link do Twitter, para ver o projeto:** [Como criar guias que exibem conteúdos diferentes](https://twitter.com/Rodr1guesDev/status/1595839813558697991)
 
+
+### Dia 59: 25 de novembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Como criar um relógio de contagem regressiva](https://twitter.com/Rodr1guesDev/status/1596333582762774532)
+
