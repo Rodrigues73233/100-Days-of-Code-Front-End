@@ -535,3 +535,12 @@
 
 **Link do Twitter, para ver o projeto:** [Como criar um relógio de contagem regressiva](https://twitter.com/Rodr1guesDev/status/1596333582762774532)
 
+
+### Dia 60: 26 de novembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Como criar seu próprio Lorem ipsum](https://twitter.com/Rodr1guesDev/status/1596567535440257025)
+
