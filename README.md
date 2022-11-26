@@ -120,7 +120,7 @@ Início Setembro 27 - 2022
 | 56 | Como criar um segundo plano de vídeo | JavaScript | 1h |
 | 57 | Como criar uma barra de navegação com rolagem | JavaScript | 3h |
 | 58 | Como criar guias que exibem conteúdos diferentes| JavaScript | 1h |
-| 59 | Como criar um relógio de contagem regressiva| |  |
+| 59 | Como criar um relógio de contagem regressiva| JavaScript | 3h |
 | 60 | Como criar seu próprio Lorem ipsum | |  |
 | 61 | Como criar uma lista de compras | |  |
 | 62 | Como criar um slider de imagens  | |  |
