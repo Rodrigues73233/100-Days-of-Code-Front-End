@@ -552,3 +552,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em JavaScript.
 
 **Link do Twitter, para ver o projeto:** [Como criar uma lista de compras](https://twitter.com/Rodr1guesDev/status/1597053686215151616)
+
+
+### Dia 62: 28 de novembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Como criar um slider de imagens](https://twitter.com/Rodr1guesDev/status/1597373852505735170)
