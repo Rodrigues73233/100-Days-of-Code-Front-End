@@ -544,3 +544,11 @@
 
 **Link do Twitter, para ver o projeto:** [Como criar seu próprio Lorem ipsum](https://twitter.com/Rodr1guesDev/status/1596567535440257025)
 
+
+### Dia 61: 27 de novembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Como criar uma lista de compras](https://twitter.com/Rodr1guesDev/status/1597053686215151616)
