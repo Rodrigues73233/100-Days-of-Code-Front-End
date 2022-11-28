@@ -123,7 +123,7 @@ Início Setembro 27 - 2022
 | 59 | Como criar um relógio de contagem regressiva| JavaScript | 3h |
 | 60 | Como criar seu próprio Lorem ipsum | JavaScript | 1h |
 | 61 | Como criar uma lista de compras | JavaScript | 3h |
-| 62 | Como criar um slider de imagens  | |  |
+| 62 | Como criar um slider de imagens  | JavaScript | 1h |
 | 63 | Como criar um jogo de pedra, papel e tesoura | |  |
 | 64 | Como criar o jogo do Genius |  |  |
 | 65 | Como criar um jogo de plataforma |  |  |
