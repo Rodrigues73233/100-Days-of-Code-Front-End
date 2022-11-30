@@ -31,8 +31,8 @@
 
 Esse é meu repositório pra o desafio dos 100 Days of Code. Meus objetivos são
 - [x] Treinar meu HTML, CSS, JavaScript (1-47)
-- [ ] Praticar muito JavaScript (48-74)
-- [ ] Estudar UX e Design (75-85)
+- [ ] Praticar muito JavaScript (48-75)
+- [ ] Estudar UX e Design (76-85)
 - [ ] Estudar algum FrameWork voltado para o Front-End (86-100)
 
 Principais Repositórios dos 100 Days of Code
@@ -124,20 +124,20 @@ Início Setembro 27 - 2022
 | 60 | Como criar seu próprio Lorem ipsum | JavaScript | 1h |
 | 61 | Como criar uma lista de compras | JavaScript | 3h |
 | 62 | Como criar um slider de imagens  | JavaScript | 1h |
-| 63 | Como criar um jogo de pedra, papel e tesoura | |  |
-| 64 | Como criar o jogo do Genius |  |  |
-| 65 | Como criar um jogo de plataforma |  |  |
-| 66 | Como criar o Doodle Jump |  |  |
-| 67 | Como criar o Flappy Bird |  |  |
-| 68 | Como criar um jogo de memória |  |  |
-| 69 | Como criar um jogo de Whack-a-mole |  |  |
-| 70 | Como criar um jogo de Ligue 4 |  |  |
-| 71 | Como criar o jogo da cobrinha |  |  |
-| 72 | Como criar o jogo do Space Invaders |  |  |
-| 73 | Como criar o jogo do Frogger |  |  |
-| 74 | Como criar o jogo de Tetris |  |  |
-| 75 | Design Systems |  |  |
-| 76 |  |  |  |
+| 63 | Como fazer um Botão de Dark Mode | JavaScript | 1h |
+| 64 | Como criar um jogo de pedra, papel e tesoura | |  |
+| 65 | Como criar o jogo do Genius |  |  |
+| 66 | Como criar um jogo de plataforma |  |  |
+| 67 | Como criar o Doodle Jump |  |  |
+| 68 | Como criar o Flappy Bird |  |  |
+| 69 | Como criar um jogo de memória |  |  |
+| 70 | Como criar um jogo de Whack-a-mole |  |  |
+| 71 | Como criar um jogo de Ligue 4 |  |  |
+| 72 | Como criar o jogo da cobrinha |  |  |
+| 73 | Como criar o jogo do Space Invaders |  |  |
+| 74 | Como criar o jogo do Frogger |  |  |
+| 75 | Como criar o jogo de Tetris |  |  |
+| 76 | Design Systems |  |  |
 | 77 |  |  |  |
 | 78 |  |  |  |
 | 79 | Figma Fundamentos |  |  |
@@ -168,7 +168,7 @@ Início Setembro 27 - 2022
 - Acervo Lima (5): https://acervolima.com/os-10-principais-projetos-para-iniciantes-praticarem-habilidades-em-html-e-css/
 - Canal Rafaella Ballerini (11,12 - 24): https://www.youtube.com/watch?v=y4ltLH9iK8E&t=784s&ab_channel=RafaellaBallerini
 - 20 Ideias de Projetos Para Desenvolvedores (25 - 36): https://www.brasilcode.com.br/20-ideias-de-projetos-para-desenvolvedores/
-- Projetos em JavaScript puro (48 - 74): https://www.freecodecamp.org/portuguese/news/40-projetos-em-javascript-para-iniciantes-ideias-simples-para-comecar-a-programar-em-js/
+- Projetos em JavaScript puro (48 - 75): https://www.freecodecamp.org/portuguese/news/40-projetos-em-javascript-para-iniciantes-ideias-simples-para-comecar-a-programar-em-js/
 
 
 
