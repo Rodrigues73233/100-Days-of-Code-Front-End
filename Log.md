@@ -572,7 +572,7 @@
 **Link do Twitter, para ver o projeto:** [Como fazer um Botão de Dark Mode](https://twitter.com/Rodr1guesDev/status/1597785855242141696)
 
 
-### Dia 64: 230 de novembro, 2022 
+### Dia 64: 30 de novembro, 2022 
 
 **Progresso do dia:** Treinei um pouco de lógica com JavaScript.
 
