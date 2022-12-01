@@ -579,3 +579,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em JavaScript.
 
 **Link do Twitter, para ver o projeto:** [Como criar um jogo de pedra, papel e tesoura](https://twitter.com/Rodr1guesDev/status/1598135995006070784)
+
+
+### Dia 65: 01 de dezembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Como criar o jogo do Genius](https://twitter.com/Rodr1guesDev/status/1598429383630671873)
