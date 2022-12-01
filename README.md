@@ -125,7 +125,7 @@ Início Setembro 27 - 2022
 | 61 | Como criar uma lista de compras | JavaScript | 3h |
 | 62 | Como criar um slider de imagens  | JavaScript | 1h |
 | 63 | Como fazer um Botão de Dark Mode | JavaScript | 1h |
-| 64 | Como criar um jogo de pedra, papel e tesoura | |  |
+| 64 | Como criar um jogo de pedra, papel e tesoura | JavaScript | 3h |
 | 65 | Como criar o jogo do Genius |  |  |
 | 66 | Como criar um jogo de plataforma |  |  |
 | 67 | Como criar o Doodle Jump |  |  |
