@@ -128,9 +128,9 @@ Início Setembro 27 - 2022
 | 64 | Como criar um jogo de pedra, papel e tesoura | JavaScript | 3h |
 | 65 | Como criar o jogo do Genius | JavaScript | 3h |
 | 66 | Como criar um jogo de plataforma | JavaScript | 3h |
-| 67 | Como criar o Doodle Jump |  |  |
-| 68 | Como criar o Flappy Bird |  |  |
-| 69 | Como criar um jogo de memória |  |  |
+| 67 | Como criar um jogo de memória | JavaScript | 3h |
+| 68 | Como criar o Doodle Jump |  |  |
+| 69 | Como criar o Flappy Bird |  |  |
 | 70 | Como criar um jogo de Whack-a-mole |  |  |
 | 71 | Como criar um jogo de Ligue 4 |  |  |
 | 72 | Como criar o jogo da cobrinha |  |  |
