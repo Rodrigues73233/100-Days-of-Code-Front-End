@@ -127,7 +127,7 @@ Início Setembro 27 - 2022
 | 63 | Como fazer um Botão de Dark Mode | JavaScript | 1h |
 | 64 | Como criar um jogo de pedra, papel e tesoura | JavaScript | 3h |
 | 65 | Como criar o jogo do Genius | JavaScript | 3h |
-| 66 | Como criar um jogo de plataforma |  |  |
+| 66 | Como criar um jogo de plataforma | JavaScript | 3h |
 | 67 | Como criar o Doodle Jump |  |  |
 | 68 | Como criar o Flappy Bird |  |  |
 | 69 | Como criar um jogo de memória |  |  |
