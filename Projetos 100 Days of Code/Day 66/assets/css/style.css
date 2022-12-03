@@ -1,0 +1,43 @@
+@font-face {
+  font-family: "Flappy";
+  src: url("../assets/fonts/flappy.ttf");
+}
+
+#game_over {
+  top: 180px;
+  left: 25px;
+  padding-top: 10px;
+  border-radius: 10px;
+  box-shadow: 2px 1px 12px black;
+  font-family: Flappy;
+  font-size: 40px;
+  color: black;
+  width: 250px;
+  height: 100px;
+  background-color: white;
+  position: absolute;
+  text-align: center;
+  display: none;
+}
+
+#game_over_infos {
+  color: rgb(85, 85, 3);
+  font-size: 35px;
+  padding: 10px;
+}
+
+#btn_again {
+  color: rgb(85, 85, 3);
+  border-radius: 20px;
+  border: none;
+  font-size: 20px;
+  padding: 10px;
+  margin-top: 20px;
+  transition: .6s;
+}
+
+#btn_again:hover {
+  background-color: rgb(112, 109, 109);
+  cursor: pointer;
+  color: #FFFF28;
+}
