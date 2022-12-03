@@ -597,3 +597,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em JavaScript.
 
 **Link do Twitter, para ver o projeto:** [Como criar um jogo de plataforma](https://twitter.com/Rodr1guesDev/status/1598862259320606721)
+
+
+### Dia 67: 03 de dezembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Como criar um jogo de memória](https://twitter.com/Rodr1guesDev/status/1599149042495201280)
