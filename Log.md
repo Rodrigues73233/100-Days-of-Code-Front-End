@@ -588,3 +588,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em JavaScript.
 
 **Link do Twitter, para ver o projeto:** [Como criar o jogo do Genius](https://twitter.com/Rodr1guesDev/status/1598429383630671873)
+
+
+### Dia 66: 02 de dezembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Como criar um jogo de plataforma](https://twitter.com/Rodr1guesDev/status/1598862259320606721)
