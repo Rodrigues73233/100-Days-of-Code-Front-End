@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --main-font: 'Poppins', sans-serif;
+}
+
+main {
+  font-family: var(--main-font);
+}
+
+.container-qr {
+  height: 100vh;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  flex-direction: column;
+  background: #474E68;
+}
+
+.container-qr h1 {
+  margin-bottom: 30px;
+  color: white;
+}
+
+.container-qr textarea {
+  width: 25%;
+  height: 15%;
+  margin: 0 auto;
+  border: none;
+  font-size: 16px;
+}
+
+.container-qr button {
+  width: 25%;
+  margin: 0 auto;
+  padding: 20px;
+  border: none;
+  border-radius: 10px;
+  background: #50577A;
+  transition: .6s;
+  color: white;
+  font-size: 26px;
+}
+
+.container-qr button:hover {
+  background: #6B728E;
+  cursor: pointer;
+}
+
+.container-qr img {
+  width: 20%;
+  height: 50%;
+  border: 2px solid #0c39db;
+  border-radius: 20px;
+  margin: 0 auto;
+  background-image: url(../images/markus-winkler-Q6uqw_Hjye8-unsplash.jpg);
+}
