@@ -606,3 +606,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em JavaScript.
 
 **Link do Twitter, para ver o projeto:** [Como criar um jogo de memória](https://twitter.com/Rodr1guesDev/status/1599149042495201280)
+
+
+### Dia 68: 04 de dezembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Como criar o Doodle Jump](https://twitter.com/Rodr1guesDev/status/1599588824166064129)
