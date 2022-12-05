@@ -127,10 +127,10 @@ Início Setembro 27 - 2022
 | 63 | Como fazer um Botão de Dark Mode | JavaScript | 1h |
 | 64 | Como criar um jogo de pedra, papel e tesoura | JavaScript | 3h |
 | 65 | Como criar o jogo do Genius | JavaScript | 3h |
-| 66 | Como criar um jogo de plataforma | JavaScript | 3h |
+| 66 | Como criar o Flappy Bird | JavaScript | 3h |
 | 67 | Como criar um jogo de memória | JavaScript | 3h |
 | 68 | Como criar o Doodle Jump | JavaScript | 3h |
-| 69 | Como criar o Flappy Bird |  |  |
+| 69 | Como gerar um QR CODE com JAVASCRIPT | JavaScript | 1h |
 | 70 | Como criar um jogo de Whack-a-mole |  |  |
 | 71 | Como criar um jogo de Ligue 4 |  |  |
 | 72 | Como criar o jogo da cobrinha |  |  |
@@ -168,7 +168,8 @@ Início Setembro 27 - 2022
 - Acervo Lima (5): https://acervolima.com/os-10-principais-projetos-para-iniciantes-praticarem-habilidades-em-html-e-css/
 - Canal Rafaella Ballerini (11,12 - 24): https://www.youtube.com/watch?v=y4ltLH9iK8E&t=784s&ab_channel=RafaellaBallerini
 - 20 Ideias de Projetos Para Desenvolvedores (25 - 36): https://www.brasilcode.com.br/20-ideias-de-projetos-para-desenvolvedores/
-- Projetos em JavaScript puro (48 - 75): https://www.freecodecamp.org/portuguese/news/40-projetos-em-javascript-para-iniciantes-ideias-simples-para-comecar-a-programar-em-js/
+- Projetos em JavaScript puro (48 - 68, 70 75): https://www.freecodecamp.org/portuguese/news/40-projetos-em-javascript-para-iniciantes-ideias-simples-para-comecar-a-programar-em-js/
+- Projeto em JavaScript (69): https://www.youtube.com/watch?v=E1gPN6LmH00&list=PLJ8PYFcmwFOxmqYNlo_H8TYVSDLxB8HdR&index=13&ab_channel=Jo%C3%A3oTinti
 
 
 
