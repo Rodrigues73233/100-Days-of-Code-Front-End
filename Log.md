@@ -596,7 +596,7 @@
 
 **Aprendizados:** Adquiri mais conhecimentos em JavaScript.
 
-**Link do Twitter, para ver o projeto:** [Como criar um jogo de plataforma](https://twitter.com/Rodr1guesDev/status/1598862259320606721)
+**Link do Twitter, para ver o projeto:** [Como criar o Flappy Bird](https://twitter.com/Rodr1guesDev/status/1598862259320606721)
 
 
 ### Dia 67: 03 de dezembro, 2022 
@@ -615,3 +615,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em JavaScript.
 
 **Link do Twitter, para ver o projeto:** [Como criar o Doodle Jump](https://twitter.com/Rodr1guesDev/status/1599588824166064129)
+
+
+### Dia 69: 05 de dezembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Como gerar um QR CODE com JAVASCRIPT](https://twitter.com/Rodr1guesDev/status/1599909898384736256)
