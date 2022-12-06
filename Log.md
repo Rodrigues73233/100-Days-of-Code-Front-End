@@ -624,3 +624,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em JavaScript.
 
 **Link do Twitter, para ver o projeto:** [Como gerar um QR CODE com JAVASCRIPT](https://twitter.com/Rodr1guesDev/status/1599909898384736256)
+
+
+### Dia 70: 06 de dezembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Whack-a-mole](https://twitter.com/Rodr1guesDev/status/1600256382389059584)
