@@ -131,7 +131,7 @@ Início Setembro 27 - 2022
 | 67 | Como criar um jogo de memória | JavaScript | 3h |
 | 68 | Como criar o Doodle Jump | JavaScript | 3h |
 | 69 | Como gerar um QR CODE com JAVASCRIPT | JavaScript | 1h |
-| 70 | Como criar um jogo de Whack-a-mole |  |  |
+| 70 | Como criar um jogo de Whack-a-mole | JavaScript | 1h |
 | 71 | Como criar um jogo de Ligue 4 |  |  |
 | 72 | Como criar o jogo da cobrinha |  |  |
 | 73 | Como criar o jogo do Space Invaders |  |  |
