@@ -633,3 +633,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em JavaScript.
 
 **Link do Twitter, para ver o projeto:** [Whack-a-mole](https://twitter.com/Rodr1guesDev/status/1600256382389059584)
+
+
+### Dia 71: 07 de dezembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Connect-Four](https://twitter.com/Rodr1guesDev/status/1600622174905241600)
