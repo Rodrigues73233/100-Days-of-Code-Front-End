@@ -651,3 +651,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em JavaScript.
 
 **Link do Twitter, para ver o projeto:** [Snake Game](https://twitter.com/Rodr1guesDev/status/1601031846737096705)
+
+
+### Dia 73: 09 de dezembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Space Invaders](https://twitter.com/Rodr1guesDev/status/1601365174270627841)
