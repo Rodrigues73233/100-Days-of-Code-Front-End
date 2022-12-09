@@ -642,3 +642,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em JavaScript.
 
 **Link do Twitter, para ver o projeto:** [Connect-Four](https://twitter.com/Rodr1guesDev/status/1600622174905241600)
+
+
+### Dia 72: 08 de dezembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Snake Game](https://twitter.com/Rodr1guesDev/status/1601031846737096705)
