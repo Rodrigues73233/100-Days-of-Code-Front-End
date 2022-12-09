@@ -134,7 +134,7 @@ Início Setembro 27 - 2022
 | 70 | Como criar um jogo de Whack-a-mole | JavaScript | 1h |
 | 71 | Como criar um jogo de Connect Four | JavaScript | 1h |
 | 72 | Como criar o jogo da cobrinha | JavaScript | 1h |
-| 73 | Como criar o jogo do Space Invaders |  |  |
+| 73 | Como criar o jogo do Space Invaders | JavaScript | 2h |
 | 74 | Como criar o jogo do Frogger |  |  |
 | 75 | Como criar o jogo de Tetris |  |  |
 | 76 | Design Systems |  |  |
