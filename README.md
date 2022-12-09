@@ -133,7 +133,7 @@ Início Setembro 27 - 2022
 | 69 | Como gerar um QR CODE com JAVASCRIPT | JavaScript | 1h |
 | 70 | Como criar um jogo de Whack-a-mole | JavaScript | 1h |
 | 71 | Como criar um jogo de Connect Four | JavaScript | 1h |
-| 72 | Como criar o jogo da cobrinha |  |  |
+| 72 | Como criar o jogo da cobrinha | JavaScript | 1h |
 | 73 | Como criar o jogo do Space Invaders |  |  |
 | 74 | Como criar o jogo do Frogger |  |  |
 | 75 | Como criar o jogo de Tetris |  |  |
