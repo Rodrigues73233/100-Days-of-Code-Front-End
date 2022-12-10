@@ -660,3 +660,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em JavaScript.
 
 **Link do Twitter, para ver o projeto:** [Space Invaders](https://twitter.com/Rodr1guesDev/status/1601365174270627841)
+
+
+### Dia 74: 10 de dezembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Frogger](https://twitter.com/Rodr1guesDev/status/1601545054329315329)
