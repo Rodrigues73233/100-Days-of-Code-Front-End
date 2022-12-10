@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700&display=swap');
+
+body {
+  background-color: rgba(220, 235, 245, 0.986);
+  font-family: 'Poppins', sans-serif;
+  text-transform: uppercase;
+}
+
+body h3 {
+  text-align: center;
+  font-size: 30px;
+}
+
+.botao {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.botao button {
+  border: none;
+  font-size: 20px;
+  border-radius: 20px;
+  background-color: rgb(2, 165, 165);
+  transition: .6s;
+  padding: 10px;
+}
+
+.botao button:hover {
+  cursor: pointer;
+  background-color: rgb(6, 241, 241);
+}
+
+.grid {
+  border: 1px solid black;
+  height: 180px;
+  width: 180px;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+}
+
+.grid div {
+  height: 20px;
+  width: 20px;
+}
+
+.ending-block {
+  background-image: url(../images/chegada.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.starting-block {
+  background-image: url(../images/chegada.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.l1, .l2, .l3 {
+  background-color: lightgrey;
+}
+
+.l4, .l5 {
+  background-image: url(../images/carro_2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: lightgray;
+}
+
+.c1 {
+  background-color: lightgrey;
+}
+
+.c2, .c3 {
+  background-image: url(../images/carro_1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: lightgray;
+}
+
+.frog {
+  background-image: url(../images/sapo.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
