@@ -135,7 +135,7 @@ Início Setembro 27 - 2022
 | 71 | Como criar um jogo de Connect Four | JavaScript | 1h |
 | 72 | Como criar o jogo da cobrinha | JavaScript | 1h |
 | 73 | Como criar o jogo do Space Invaders | JavaScript | 2h |
-| 74 | Como criar o jogo do Frogger |  |  |
+| 74 | Como criar o jogo do Frogger | JavaScript | 2h |
 | 75 | Como criar o jogo de Tetris |  |  |
 | 76 | Design Systems |  |  |
 | 77 |  |  |  |
