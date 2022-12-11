@@ -136,7 +136,7 @@ Início Setembro 27 - 2022
 | 72 | Como criar o jogo da cobrinha | JavaScript | 1h |
 | 73 | Como criar o jogo do Space Invaders | JavaScript | 2h |
 | 74 | Como criar o jogo do Frogger | JavaScript | 2h |
-| 75 | Como criar o jogo de Tetris |  |  |
+| 75 | Como criar o jogo de Tetris | JavaScript | 3h |
 | 76 | Design Systems |  |  |
 | 77 |  |  |  |
 | 78 |  |  |  |
