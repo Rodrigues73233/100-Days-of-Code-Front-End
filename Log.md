@@ -669,3 +669,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em JavaScript.
 
 **Link do Twitter, para ver o projeto:** [Frogger](https://twitter.com/Rodr1guesDev/status/1601545054329315329)
+
+
+### Dia 75: 11 de dezembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript.
+
+**Aprendizados:** Adquiri mais conhecimentos em JavaScript.
+
+**Link do Twitter, para ver o projeto:** [Tetris](https://twitter.com/Rodr1guesDev/status/1602072573629665283)
