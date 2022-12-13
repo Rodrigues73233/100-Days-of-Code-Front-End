@@ -31,7 +31,7 @@
 
 Esse é meu repositório pra o desafio dos 100 Days of Code. Meus objetivos são
 - [x] Treinar meu HTML, CSS, JavaScript (1-47)
-- [ ] Praticar muito JavaScript (48-75)
+- [x] Praticar muito JavaScript (48-75)
 - [ ] Estudar UX e Design (76-85)
 - [ ] Estudar algum FrameWork voltado para o Front-End (86-100)
 
@@ -137,7 +137,7 @@ Início Setembro 27 - 2022
 | 73 | Como criar o jogo do Space Invaders | JavaScript | 2h |
 | 74 | Como criar o jogo do Frogger | JavaScript | 2h |
 | 75 | Como criar o jogo de Tetris | JavaScript | 3h |
-| 76 | Design Systems |  |  |
+| 76 | Design Systems/JavaScript | JavaScript - Design | 1h |
 | 77 |  |  |  |
 | 78 |  |  |  |
 | 79 | Figma Fundamentos |  |  |
