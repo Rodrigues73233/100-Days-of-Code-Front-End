@@ -678,3 +678,12 @@
 **Aprendizados:** Adquiri mais conhecimentos em JavaScript.
 
 **Link do Twitter, para ver o projeto:** [Tetris](https://twitter.com/Rodr1guesDev/status/1602072573629665283)
+
+
+### Dia 76: 12 de dezembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript e estudei um pouco de Design Systems.
+
+**Aprendizados:** Adquiri conhecimentos em Design Systems.
+
+**Link do Twitter, para ver o projeto:** [Design Systems](https://twitter.com/Rodr1guesDev/status/1602492002536390656)
