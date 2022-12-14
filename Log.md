@@ -696,3 +696,12 @@
 **Aprendizados:** Adquiri conhecimentos em Design Systems.
 
 **Link do Twitter, para ver o projeto:** [Design Systems](https://twitter.com/Rodr1guesDev/status/1602848361337479168)
+
+
+### Dia 78: 14 de dezembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript e estudei um pouco de Design Systems.
+
+**Aprendizados:** Adquiri conhecimentos em Design Systems.
+
+**Link do Twitter, para ver o projeto:** [Design Systems](https://twitter.com/Rodr1guesDev/status/1603125777603891200)
