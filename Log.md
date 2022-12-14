@@ -689,7 +689,7 @@
 **Link do Twitter, para ver o projeto:** [Design Systems](https://twitter.com/Rodr1guesDev/status/1602492002536390656)
 
 
-### Dia 77: 12 de dezembro, 2022 
+### Dia 77: 13 de dezembro, 2022 
 
 **Progresso do dia:** Treinei um pouco de lógica com JavaScript e estudei um pouco de Design Systems.
 
