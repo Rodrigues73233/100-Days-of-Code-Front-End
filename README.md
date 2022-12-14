@@ -138,7 +138,7 @@ Início Setembro 27 - 2022
 | 74 | Como criar o jogo do Frogger | JavaScript | 2h |
 | 75 | Como criar o jogo de Tetris | JavaScript | 3h |
 | 76 | Design Systems/JavaScript | JavaScript - Design | 1h |
-| 77 |  |  |  |
+| 77 | Design Systems/JavaScript | JavaScript - Design | 1h |
 | 78 |  |  |  |
 | 79 | Figma Fundamentos |  |  |
 | 80 |  |  |  |
