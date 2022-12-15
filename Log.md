@@ -705,3 +705,12 @@
 **Aprendizados:** Adquiri conhecimentos em Design Systems.
 
 **Link do Twitter, para ver o projeto:** [Design Systems](https://twitter.com/Rodr1guesDev/status/1603125777603891200)
+
+
+### Dia 79: 15 de dezembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript e estudei um pouco do Figma.
+
+**Aprendizados:** Adquiri conhecimentos no Figma.
+
+**Link do Twitter, para ver o projeto:** [Figma](https://twitter.com/Rodr1guesDev/status/1603535818022428672)
