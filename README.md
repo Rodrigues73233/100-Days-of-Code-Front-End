@@ -142,7 +142,7 @@ Início Setembro 27 - 2022
 | 78 | Design Systems/JavaScript | JavaScript - Design | 1h |
 | 79 | Figma Fundamentos/JavaScript | JavaScript - Figma | 1h |
 | 80 | Figma/JavaScript | JavaScript - Figma | 1h |
-| 81 |  |  |  |
+| 81 | Figma/JavaScript | JavaScript - Figma | 1h |
 | 82 |  |  |  |
 | 83 |  |  |  |
 | 84 |  |  |  |
