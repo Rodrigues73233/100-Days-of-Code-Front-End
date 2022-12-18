@@ -723,3 +723,12 @@
 **Aprendizados:** Adquiri conhecimentos no Figma.
 
 **Link do Twitter, para ver o projeto:** [Figma](https://twitter.com/Rodr1guesDev/status/1603944747051405312)
+
+
+### Dia 81: 17 de dezembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript e estudei um pouco do Figma.
+
+**Aprendizados:** Adquiri conhecimentos no Figma.
+
+**Link do Twitter, para ver o projeto:** [Figma](https://twitter.com/Rodr1guesDev/status/1604302892680335360)
