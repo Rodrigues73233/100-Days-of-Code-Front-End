@@ -143,7 +143,7 @@ Início Setembro 27 - 2022
 | 79 | Figma Fundamentos/JavaScript | JavaScript - Figma | 1h |
 | 80 | Figma/JavaScript | JavaScript - Figma | 1h |
 | 81 | Figma/JavaScript | JavaScript - Figma | 1h |
-| 82 |  |  |  |
+| 82 | Figma/JavaScript | JavaScript - Figma | 1h |
 | 83 |  |  |  |
 | 84 |  |  |  |
 | 85 |  |  |  |
