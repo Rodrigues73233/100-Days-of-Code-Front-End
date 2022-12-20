@@ -144,7 +144,7 @@ Início Setembro 27 - 2022
 | 80 | Figma/JavaScript | JavaScript - Figma | 1h |
 | 81 | Figma/JavaScript | JavaScript - Figma | 1h |
 | 82 | Figma/JavaScript | JavaScript - Figma | 1h |
-| 83 |  |  |  |
+| 83 | Figma/JavaScript | JavaScript - Figma | 1h |
 | 84 |  |  |  |
 | 85 |  |  |  |
 | 86 | Entender os Diferentes FrameWorks |  |  |
