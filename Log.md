@@ -741,3 +741,12 @@
 **Aprendizados:** Adquiri conhecimentos no Figma.
 
 **Link do Twitter, para ver o projeto:** [Figma](https://twitter.com/Rodr1guesDev/status/1604669044971405312)
+
+
+### Dia 83: 19 de dezembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript e estudei um pouco de UX Design.
+
+**Aprendizados:** Adquiri conhecimentos em UX Design.
+
+**Link do Twitter, para ver o projeto:** [UX Design](https://twitter.com/Rodr1guesDev/status/1605029236951097344)
