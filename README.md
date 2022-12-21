@@ -145,7 +145,7 @@ Início Setembro 27 - 2022
 | 81 | Figma/JavaScript | JavaScript - Figma | 1h |
 | 82 | Figma/JavaScript | JavaScript - Figma | 1h |
 | 83 | UX Design/JavaScript | JavaScript - UX Design | 1h |
-| 84 |  |  |  |
+| 84 | UX Design/JavaScript | JavaScript - UX Design | 1h |
 | 85 |  |  |  |
 | 86 | Entender os Diferentes FrameWorks |  |  |
 | 87 | Escolher FrameWork |  |  |
