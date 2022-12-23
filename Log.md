@@ -768,3 +768,12 @@
 **Aprendizados:** Adquiri conhecimentos em UX Design.
 
 **Link do Twitter, para ver o projeto:** [UX Design](https://twitter.com/Rodr1guesDev/status/1605733940702085124)
+
+
+### Dia 86: 22 de dezembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript e estudei um pouco do React.
+
+**Aprendizados:** Adquiri conhecimentos em React.
+
+**Link do Twitter, para ver o projeto:** [React](https://twitter.com/Rodr1guesDev/status/1606106128080723969)
