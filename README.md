@@ -149,7 +149,7 @@ Início Setembro 27 - 2022
 | 85 | UX Design/JavaScript | JavaScript - UX Design | 1h |
 | 86 | Entender os Diferentes FrameWorks | React - JavaScript | 1h |
 | 87 | Escolher FrameWork |  React - JavaScript | 1h |
-| 88 |  |  |  |
+| 88 | Aprender mais sobre React | React - JavaScript | 1h |
 | 89 |  |  |  |
 | 90 |  |  |  |
 | 91 |  |  |  |
