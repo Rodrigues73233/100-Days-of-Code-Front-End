@@ -32,7 +32,7 @@
 Esse é meu repositório pra o desafio dos 100 Days of Code. Meus objetivos são
 - [x] Treinar meu HTML, CSS, JavaScript (1-47)
 - [x] Praticar muito JavaScript (48-75)
-- [ ] Estudar UX e Design (76-85)
+- [x] Estudar UX e Design (76-85)
 - [ ] Estudar algum FrameWork voltado para o Front-End (86-100)
 
 Principais Repositórios dos 100 Days of Code
@@ -150,7 +150,7 @@ Início Setembro 27 - 2022
 | 86 | Entender os Diferentes FrameWorks | React - JavaScript | 1h |
 | 87 | Escolher FrameWork |  React - JavaScript | 1h |
 | 88 | Aprender mais sobre React | React - JavaScript | 1h |
-| 89 |  |  |  |
+| 89 | Estudar React | React - JavaScript | 1h |
 | 90 |  |  |  |
 | 91 |  |  |  |
 | 92 |  |  |  |
