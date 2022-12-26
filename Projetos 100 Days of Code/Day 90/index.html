@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Gerador de Gorjeta</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body class="bg-dark">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 mx-auto">
+          <div class="card card-body text-center mt-5">
+            <h1 class="heading display-5 pb-3">Calculadora de Gorjetas</h1>
+            <form id="tip-form">
+              <div class="form-group">
+                <div class="input-group">
+                  <span class="input-group-addon">$</span>
+                  <input
+                    type="number"
+                    class="form-control"
+                    id="billTotal"
+                    placeholder="Total da Conta"
+                  />
+                </div>
+              </div>
+              <div class="form-group tipPersent">
+                <div class="input-group">
+                  <label for="">Porcentagem:</label>
+
+                  <input
+                    type="range"
+                    class="form-control"
+                    id="tipInput"
+                    value="0"
+                  />
+                  <span class="input-group-addon" id="tipOutput"></span>
+                </div>
+              </div>
+            </form>
+            <hr />
+
+            <!-- RESULTS -->
+            <div id="results" class="pt-4">
+              <h5>Results</h5>
+              <div class="form-group">
+                <div class="input-group">
+                  <span class="input-group-addon">Valor da gorjeta</span>
+                  <input
+                    type="number"
+                    class="form-control"
+                    id="tipAmount"
+                    disabled
+                  />
+                </div>
+              </div>
+
+              <div class="form-group">
+                <div class="input-group">
+                  <span class="input-group-addon">Conta total com gorjeta</span>
+                  <input
+                    type="number"
+                    class="form-control"
+                    id="totalBillWithTip"
+                    disabled
+                  />
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="./main.js"></script>
+  </body>
+</html>
