@@ -151,7 +151,7 @@ Início Setembro 27 - 2022
 | 87 | Escolher FrameWork |  React - JavaScript | 1h |
 | 88 | Aprender mais sobre React | React - JavaScript | 1h |
 | 89 | Estudar React | React - JavaScript | 1h |
-| 90 |  |  |  |
+| 90 | Estudar React | React - JavaScript | 1h |
 | 91 |  |  |  |
 | 92 |  |  |  |
 | 93 |  |  |  |
