@@ -804,3 +804,12 @@
 **Aprendizados:** Adquiri conhecimentos em React.
 
 **Link do Twitter, para ver o projeto:** [React](https://twitter.com/Rodr1guesDev/status/1607128824235585536)
+
+
+### Dia 90: 26 de dezembro, 2022 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript e estudei um pouco do React.
+
+**Aprendizados:** Adquiri conhecimentos em React.
+
+**Link do Twitter, para ver o projeto:** [React](https://twitter.com/Rodr1guesDev/status/1607521523186946050)
