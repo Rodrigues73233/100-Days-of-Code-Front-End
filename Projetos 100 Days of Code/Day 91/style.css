@@ -1,0 +1,17 @@
+
+body {
+	background: #f1f1f1;
+	margin-top: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+button {
+  padding: 5px;
+  vertical-align: middle;
+}
+
+#add-task-btn {
+  padding: 10px;
+}
