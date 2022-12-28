@@ -153,7 +153,7 @@ Início Setembro 27 - 2022
 | 89 | Estudar React | React - JavaScript | 1h |
 | 90 | Estudar React | React - JavaScript | 1h |
 | 91 | Estudar React | React - JavaScript | 1h |
-| 92 |  |  |  |
+| 92 | Estudar React | React - JavaScript | 1h |
 | 93 |  |  |  |
 | 94 |  |  |  |
 | 95 |  |  |  |
