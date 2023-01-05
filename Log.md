@@ -885,3 +885,12 @@
 **Aprendizados:** Adquiri conhecimentos em React.
 
 **Link do Twitter, para ver o projeto:** [React](https://twitter.com/Rodr1guesDev/status/1610398362171310080)
+
+
+### Dia 99: 04 de janeiro, 2023 
+
+**Progresso do dia:** Treinei um pouco de lógica com JavaScript e estudei um pouco do React.
+
+**Aprendizados:** Adquiri conhecimentos em React.
+
+**Link do Twitter, para ver o projeto:** [React](https://twitter.com/Rodr1guesDev/status/1610823606958686208)
