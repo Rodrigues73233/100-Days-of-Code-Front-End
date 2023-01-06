@@ -33,7 +33,7 @@ Esse é meu repositório pra o desafio dos 100 Days of Code. Meus objetivos são
 - [x] Treinar meu HTML, CSS, JavaScript (1-47)
 - [x] Praticar muito JavaScript (48-75)
 - [x] Estudar UX e Design (76-85)
-- [ ] Estudar algum FrameWork voltado para o Front-End (86-100)
+- [x] Estudar algum FrameWork voltado para o Front-End (86-100)
 
 Principais Repositórios dos 100 Days of Code
 - []
@@ -161,7 +161,7 @@ Início Setembro 27 - 2022
 | 97 | Estudar React | React - JavaScript | 1h |
 | 98 | Estudar React | React - JavaScript | 1h |
 | 99 | Estudar React | React - JavaScript | 1h |
-| 100 |  |  |  |
+| 100 | Estudar React | React - JavaScript | 1h |
 
 ## Material dos Projetos
 - FrontEnd Mentor (1 - 4, 6 - 10, 39 - 40, 42 - 46): https://www.frontendmentor.io/challenges
